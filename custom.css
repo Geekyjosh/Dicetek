@@ -1,0 +1,4012 @@
+.services-inner-bottom .text:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: -10px;
+}
+
+.services-inner-bottom .text:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: 10px;
+}
+
+.infobox_wrapper ul li {
+    font-size: 20px !important;
+    line-height: 28px !important;
+}
+.infobox ul li:before {width:25px; height:25px; background-size: 25px 25px; margin-top:6px;}
+.infobox ul li {padding-left:40px !important;}
+
+.testimonial-sec{background-color:#031241;}
+
+.contact-social ul.social li {
+	font-size: 18px;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+}
+
+.contact-social ul.social li a {
+	background-color: transparent !important;
+	color:#333;
+}
+
+.contact-social ul.social li a:hover {color:#e8242d !important; text-decoration:none !important;}
+
+.contact-social ul.social li a i {
+  font-size: 100%;
+  padding: 5px;
+  border-radius:50%;
+}
+
+.contact-social ul.social li.facebook i {background-color:#627bae;}
+.contact-social ul.social li.twitter i {background-color:#5fa9dd;}
+.contact-social ul.social li.linkedin i {background-color:#15679b;}
+
+.contact-social ul.social {
+    display: block;
+    text-align: left !important;
+	max-width: 300px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.contact-social ul li a i {
+    font-size: 18px;
+    height: 35px;
+	width:35px;
+	margin-right:10px;
+}
+
+.contact-social ul li {
+    
+    list-style-type: none;
+    margin-right: 10px;
+    text-align: left;
+}
+
+ul.blockchain-uls.left li:hover {
+    background-color: #3da0f6;
+    cursor: pointer;
+}
+
+.partner-sec4 .wpb_text_column.wpb_content_element.shadow {
+    text-align: center;
+    float: none;
+    margin: 0 auto;
+    padding-left: 15%;
+}
+
+
+
+.services-page-boxes ul {
+    display: inline;
+    float: none;
+    margin: 0;
+    padding: 0 !important;
+}
+
+div#Header_wrapper {
+    background-size: cover;
+}
+
+.services-page-boxes ul li {
+    /*float: left; */
+    display: inline-block;
+    width: 20%;
+    min-height: 90px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+.services-page-boxes ul li h6 {
+     text-align: center !important;
+    margin-bottom: 0;
+    font-size: 147% !important;
+    font-family: 'Raleway';
+    font-weight: 500;
+    display: inline;
+    float: left;
+    text-align: left !important;
+}
+
+.contact-sec-1 h3 {
+    font-weight: bold;
+}
+
+.contact-sec-1 a {
+    font-size: 18px !important;
+    font-weight: 600;
+    background-color: #165595 !important;
+    border-radius: 4px !important;
+}
+.white-button .vc_general.vc_btn3 {padding:6px 20px !important;}
+
+.contact-sec-1 a:hover {
+    cursor: pointer !important;
+    color: #fff !important;
+    background-color: #0d64af !important;
+}
+
+.contact-sec-1 p, p.contact_para {
+    font-size: 18px !important;
+    line-height: 22px !important;
+	margin: 0 0 10px;
+}
+
+/*.testimonial-sec .wpb_wrapper {
+    margin-top: 0px;
+    min-height: 365px;
+    max-width: 80%;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+}*/
+
+button.vc_general.vc_btn3.vc_btn3-size-lg.vc_btn3-shape-square.vc_btn3-style-custom {
+    color: #0d64af !important;
+    font-size: 45px !important;
+    font-weight: 500 !important;
+}
+
+.about-sec-5 .text:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: -10px;
+}
+
+.about-sec-5 .text:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: 10px;
+}
+
+.testimonial-area .wrapper-container {
+    min-height: 0;
+    margin-bottom: 0;
+}
+
+.testimonial-area .text.heading-text {
+    COLOR: #fff;
+}
+
+
+.testimonial-area .text:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: -10px;
+}
+
+.testimonial-area .text:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: 10px;
+}
+
+.sec-6-about-left .head-style .text.heading-text {
+    font-size: 110%;
+}
+
+.sub-blue-bar .text.heading-text {
+    color: #fff;
+}
+
+
+.sub-blue-bar .text.heading-text:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: -10px;
+}
+
+.sub-blue-bar .text.heading-text:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: 10px;
+}
+
+ul.blockchain-uls.left li a {
+    color: #000;
+    font-family: 'Raleway' , sans-serif;
+    text-align: left !important;
+    line-height: 16px !important;
+    font-size: 135%;
+    font-weight: 400;    text-align: left;
+}
+
+ul.blockchain-uls li a i {
+    color: #13a8dd;
+    padding: 0% 1%;
+    float: left;
+    min-height: 70px;
+}
+
+
+ul.blockchain-uls li a i:before {
+    color: #13a8dd;
+    padding: 0% 1%;
+    /*float: left;*/
+    font-size: 270%;
+    display: inline-block;
+}
+
+ .block-chain-new-sec .vc_col-sm-3 {
+    min-height: 70px;
+    margin-bottom: 0;
+    border: 1px solid #fff;
+    border-top: 0px;
+}
+
+.block-chain-new-sec .icon_box.icon_position_left.no_border {
+    padding-left: 15%;
+    min-height: 70px;
+    margin-bottom: 0;}
+
+.vc_row.wpb_row.vc_inner.vc_row-fluid.blockchain-last-sec {
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 90%;
+}
+
+ul.blockchain-uls.rights li {
+    background-color: #cbd8e4;
+    list-style-type: none;
+    float: left;
+    width: 28%;
+    margin: 0.5%;
+    padding: 3% 6%;
+}
+ul.blockchain-uls.left {
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+ul.blockchain-uls.left li {
+    background-color: #d7d9dd;
+    list-style-type: none;
+    float: left;
+    width: 35%;
+    margin: 0.5%;
+    padding: 6% 4%;min-height: 75px;
+}
+
+ul.blockchain-uls.rights {
+    background-color: rgba(19,144,250,0.75);
+    text-align: center;
+    display: inline-block;
+    padding: 10% 10%;
+    width: 80%;
+}
+
+
+
+ul.blockchain-uls.right {
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.blockchain-last-sec .wrapper-container {
+    min-height: 0;
+}
+.services-inner h3.page-custom-head {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.services-inner .wrapper-container {
+    min-height: 0;
+}
+
+ 
+
+.blockchain-last-sec h3.page-custom-head {
+    font-weight: 700;
+    font-size: 45px;
+} 
+
+.icon_box.icon_position_left .desc_wrapper {
+    width: 350px;
+    text-align: left;
+    padding-top: 10px;
+    float: left;
+}
+
+.icon_box.icon_position_left.no_border {
+    padding-left: 15%;
+}
+
+.block-chain-new-sec .image_wrapper {
+    width: 35px !important;
+} 
+
+.block-chain-new-sec .desc {
+        color: #fff !important;
+    font-size: 139%;
+    display: inline-block;
+    text-shadow: 1px 1px 1px #333;
+    font-weight: bold;
+}
+
+a.right-arrow-icon img {
+    transform: rotate(-90deg);
+}
+
+.hard-sec .vc_col-sm-3 {
+    height: 500px;
+}
+
+.about-sec-5 .right-sec h3.bold-head {
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 5px;
+    font-size: 30px;
+	line-height:35px;
+}
+
+.about-sec-5 .wpb_wrapper p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+
+.about-sec-2-2 .wpb_wrapper > div {margin-bottom:5px;}
+
+.sol-first-col-bg
+{
+background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/123.png");
+    background-size: 100% 100%;
+    height: 330px !important;
+}
+
+span.click-me {
+    font-size: 140%;
+    display: block;
+color:transparent;
+}
+
+.icon_box.icon_position_top.no_border:hover  span.click-me {
+    font-size: 140%;
+    display: block !Important;    color: #fff !Important;
+}
+
+ul.left-numbers {margin-left:10px;}
+ul.left-numbers li {
+    height: 150px;
+}
+ul.left-numbers li img {width:auto !important;}
+
+.sec-6-right span.blue-head {
+    color: #fff !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+    overflow-wrap: normal;
+    width: 350px !important;
+    float: none;
+    margin: 0 auto;
+    display: inline-block;
+    line-height: 50px;
+	letter-spacing:5px;
+	text-align:center;
+}
+
+ul.pagination li {
+ background-color: #e0e0e0;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    margin-right: 2px !important;
+    border-right: 5px solid #fff;
+    margin: 0 auto;
+    font-size: 150%;
+    padding-top: 2%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.container-pagination {
+    display: block;
+    width: 100%;
+}
+
+ul.pagination {
+    display: block;
+    width: 100%;
+text-align:center;
+margin:0 auto;
+}
+
+ul.pagination li {
+    display: inline-block;
+    text-align: center;
+}
+
+ul.career-job-list {
+    margin-left: 0;
+} .career-sec-5 form.left-sec input {
+    display: block;
+    width: 100%;
+    border: none !important;
+    padding: 0.7em 12px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.sq-bracket-white {
+float: none;
+    width: 50%;
+    margin: 0 auto;
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/both-white-brackets.png");
+    background-repeat: no-repeat;
+    height: 340px;
+    padding-left: 10%;
+    padding-top: 10%;
+    background-position: 100px 130px;
+}
+
+.sq-bracket-white h5 {
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto !important;
+    width: 50%;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.sq-bracket-white h3 {
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto !important;
+    width: 60%;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+
+#Wrapper, #Content {
+    background-color: #fff;
+}
+
+.septext h4
+{
+color:#0d64af;
+font-family:Myriad Pro;
+}
+
+.header-transparent.ab-hide #Top_bar {
+    background-color: rgba(0,0,0, 0.35) !Important;
+    top: 30px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.35);
+}
+
+nav#menu ul li a {
+    color: #000 !important;
+ 	font-family: 'Raleway', sans-serif;
+    padding: 6px 0 0 0 !important;
+	font-weight:600 !important;
+}
+#Top_bar.is-sticky nav#menu ul li a {padding:0 !important;}
+
+.slider_heading
+{
+font-family: 'Raleway', sans-serif;
+font-size:44px;
+color:#fff; 
+text-align:center !important;padding-top: 20% !important;line-height:45px;
+}
+.hrline
+{
+color: #f00;
+background-color: #f00;
+height: 5px;
+}
+.p_text_slider
+{
+color:white;
+font-size:24px;
+font-weight: bold;
+text-align:center !important;
+}
+.septextdub h4
+{
+font-size:30px;
+color:#0d64af !important;
+}
+.city_img {
+    padding: 6% 10%;
+    min-height: 180px !important;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/world-sketch-bg.png");
+}
+.testimonial_img{
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/handspic.png");
+ padding: 5% 10%;
+    height: 50px;
+ background-repeat: no-repeat;
+    background-position: top;
+}
+
+
+.blue-bar{padding:10% 10%;
+background-repeat:repeat-x !important;
+background-position:bottom !important;
+}
+
+#home-services {background-repeat:repeat-x !important; background-position:top !important;}
+
+.blue-bar-circles {
+    border: 3px solid #fff;
+    border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    float: none;
+    margin: 0 auto;
+}
+
+.blue-bar-circles h3 strong {
+    font-size: 180%;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.blue-bar-circles h3 {
+    margin-bottom: 0;
+    padding-top: 30%;
+    border-radius: 50%;
+}
+
+.blue-bar-circles p {
+    color: #fff;
+    font-family: "Raleway", sans serif;
+    padding-top: 12px;    line-height: 22px;    font-size: 18px !important;
+	width:150px;
+	margin:auto;
+	text-align:center;
+}
+
+.blue-bar.columns-5 {
+    padding: 0;
+}
+.sub-blue-bar {
+    padding: 0;
+}
+.sub-blue-bar h3{   
+color: #fff;
+  font-family: "Raleway" , sans serif !Important;
+        padding-top: 12px;    font-size:34px !important;padding-bottom: 2%;
+    font-weight: 500 !important;
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px)  {.blue-bar-circles{width:150px !important; height:150px !important;} .blue-bar-circles h3 strong {font-size:140%;} .blue-bar-circles p { font-size: 100% !important; width:120px; margin:auto; line-height:18px;} .blue-bar-circles h3 {padding-top:30px;}} 
+
+@media only screen and (min-width: 500px) and (max-width: 1200px) {.blue-bar-circles{width:120px !important; height:120px !important;} .blue-bar-circles h3 strong {font-size:120%;} .blue-bar-circles p { font-size: 90% !important; width:80px; margin:auto; line-height:18px;} .blue-bar-circles h3 {padding-top:20px;}}
+
+@media only screen and (max-width: 500px) {
+	.blue-bar.columns-5 .wpb_wrapper > div {margin-bottom:20px;}
+	.blue-bar.columns-5 .vc_column-inner {padding-top:10px;}
+	.blue-bar-circles{width:150px !important; height:150px !important;}
+	.blue-bar-circles h3 strong {font-size:180%;}
+	.blue-bar-circles p { font-size: 18px !important; line-height:22px; width:120px; margin:auto;}
+	.blue-bar-circles h3 {padding-top:30px;}
+}
+
+.blue-sec-5-bg {
+	
+/*background-image: url("http://canitia.com/dicetek/wp-content/uploads/2018/01/blue-sec-5-right-bg.jpg");*/
+    padding: 10% 5%;
+    background-repeat: no-repeat;
+    background-position: center !Important;
+    background-size: 90% 90%;
+    width: 90%;
+    height: 665px;
+}
+
+.blue-sec-5-bg .number-list {
+    float: left;
+    width: 20%;
+    display: block;
+}
+.blue-bar-5 {background-position:bottom center !important; background-repeat:no-repeat !important; background-size:cover !important;}
+@media only screen and (max-width: 768px) { .blue-bar-5 {background-position:bottom right -600px!important} }
+.sec-6-bg {background-position:top center !important; background-repeat:no-repeat !important; background-size:cover !important;}
+
+number-list ul {
+
+    padding: 0px;
+}
+
+.blue-sec-5-right-content {
+    float: left;
+    width: 75%;
+    display: block;
+}
+
+ul.sec-5-content li p {
+    color: rgba(255,255,255,0.85);
+    font-family: "Raleway";
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 18px;
+	font-weight:400;
+}
+
+.sec-5-content a.blue-link {cursor:default;
+    color: rgba(255,255,255,0.7);
+    font-family: "Raleway";
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 20px;
+	font-weight:400;
+}
+
+ul.sec-5-content li a {
+ 	color: #FFF;
+    font-family: "Raleway";
+    line-height: 19px;
+    font-size: 100% !important;
+    margin-bottom: 0px !important;
+    font-weight: 600;
+}
+ul.sec-5-content li a h4, ul.sec-5-content li h4 {color:#FFF;}
+
+
+ul.sec-5-content li {
+border-bottom: 2px solid rgba(255,255,255,0.6);
+border-radius:10px;
+height: auto;
+list-style-type: none;
+height:150px;
+}
+
+ul.sec-5-content li h4, ul.sec-5-content li a h4 {
+	font-family: 'Raleway' , sans-serif;
+	font-size:18px;
+    font-weight: 700;
+	padding-bottom:5px !important;
+	margin-bottom:0 !important;
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1100px)  {
+	ul.sec-5-content li h4, ul.sec-5-content li a h4 {font-size:16px !important; line-height:18px !important;}
+	ul.sec-5-content li p {font-size:14px !important; line-height:16px !important;
+}
+}
+
+.blue-sec-5-left {
+    float: left;
+}
+
+.blue-sec-5-left > .vc_column-inner{
+    background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center center;
+	height:100%;
+}
+
+
+canvas.particles-js-canvas-el {
+    z-index: 95;
+}
+
+div#Top_bar {
+    background-color: rgba(256,256,256,0.9) !Important;
+    top: 40px;
+height:60px;
+box-shadow: 0 3px 10px rgba(0,0,0,0.35);
+}
+.tparrows.hesperiden {
+    position: absolute;
+    z-index: 105;
+}
+
+.testimonial-sec{min-height:300px; padding-top:30px;}
+
+.testimonials_slider p , .testimonials_slider blockquote {
+    color: #fff;
+    padding: 10px 10%;
+    margin-bottom: 0px !important;   
+ background-color: #5c8abc;
+}
+
+.author h5 {
+    color: #fff;
+    font-weight: normal;
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.sec-6-bg{max-height:1200px}
+
+.sec-6-bg h4 {
+    padding: 10% 10%;
+    padding-bottom: 10px;    color: #fff;
+}
+
+.sec-6-bg p {
+    padding: 10% 10%;
+    padding-bottom: 10px;    color: #fff;padding-top: 10px;
+}
+
+.sec-6-right span.vc_sep_holder.vc_sep_holder_l span, .sec-6-right span.vc_sep_holder.vc_sep_holder_r span {
+    border: none !important;
+    height: 0 !important;
+    background-color: transparent;
+}
+
+input.btn_footer  {
+    background-color: #292b33;
+    color: white;
+    border: 2px solid #ffffff;
+    float: right;
+}
+
+
+
+.septextdub.white h4 {
+    color: #fff !important;
+    font-family: "Raleway";
+}
+
+
+.dicetek-in {
+    margin-bottom: 0px !important;
+}
+
+.sec-6-img {
+color: #fff;
+font-family: 'Raleway', sans serif;
+cursor:default;
+}
+
+
+#portfolio_slider .owl-item {max-height: 250px !important;}
+
+#portfolio_slider .owl-item .sa_hover_container {
+	font-weight:600;
+	font-size :22px !important;
+	text-shadow: 4px 3px 10px rgba(0,0,0,0.8);
+	letter-spacing:1px;
+	background-color: rgba(0,0,0,0.2);
+	height:230px !important;
+	width:230px !important;
+	max-height:230px !important;
+	vertical-align:middle;
+	display:table-cell;
+	text-align:center;
+	color: #FFF;
+}
+
+@media only screen and (max-width: 1440px) {
+#portfolio_slider .owl-item #portfolio_slider_slide08.sa_hover_container p, #portfolio_slider .owl-item #portfolio_slider_slide03.sa_hover_container p {font-size:18px !important;}
+}
+@media only screen and (max-width: 768px) {
+#portfolio_slider .owl-item #portfolio_slider_slide08.sa_hover_container p, #portfolio_slider .owl-item #portfolio_slider_slide03.sa_hover_container p {font-size:17px !important;}
+}
+
+
+.sec-6-img.one {
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/sec-5-1.jpg");
+    width: 235px;
+    height: 235px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    cursor:default;
+}
+
+.sec-6-img.two{
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/sec-5-2.jpg");
+    width: 235px;
+    height: 235px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.sec-6-img.three{
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/sec-5-3.jpg");
+    width: 235px;
+    height: 235px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.sec-6-img.four{
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/sec-5-4.jpg");
+    width: 235px;
+    height: 235px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.sec-6-img.five{
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/sec-5-5.jpg");
+    width: 235px;
+    height: 235px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;    background-position: center;
+    transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -o-transition: all 1s ease;
+}
+
+.sec-6-img.five:hover{
+	width: 235px; background-position: center;
+    height: 235px;
+ }
+
+.sec-6-image-row {
+    margin: 5px;
+}
+
+div#wpcf7-f118-p18-o1 
+{
+background-color: #f8f8f8;
+    padding: 25px 50px 40px;
+}
+button.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-square.vc_btn3-style-classic.vc_btn3-color-primary {
+    padding: 7px 25px;
+}
+div#wpcf7-f118-p18-o1 input[type="text"],input[type="email"]
+{
+ background-color: transparent;
+ border-bottom: 1px solid #bec9d2 !important;
+}
+span.wpcf7-form-control-wrap.your-message textarea
+{
+    background-color: transparent;
+    border-bottom: 1px solid #bec9d2;
+    box-shadow: 1px 1px 1px transparent;
+    border-right: 1px solid transparent;
+    border-left: 1px solid transparent;
+    border-top: 1px solid transparent;
+    padding-top: 0;
+}
+input.wpcf7-form-control.wpcf7-submit
+{
+    border-radius: 0px;
+    width: 30%;
+    border-width: 1px;
+    border-color: #92a0ae !important;
+    background-color: #ffffff00;
+    color: #929292  !important;
+    border-style: solid;
+    float:right;font-size: 100%;
+    font-weight: 500;
+}
+
+@media (max-width:1400px) {input.wpcf7-form-control.wpcf7-submit {width:auto !important; margin:auto; text-align:center;}}
+
+input.wpcf7-form-control.wpcf7-submit:hover {
+    color: #fff !important;
+    background-color: #0d64af !important;
+    font-size: 100%;
+    font-weight: 500;
+}
+
+
+.wpb_wrapper .wpcf7-form
+{
+    display: inline-block;
+    width: 100%;
+}
+h3.contact_heading
+{
+font-size: 30px;
+color: #0d64af !important;
+text-align: center;
+font-weight: 500;
+}
+
+div#wpcf7-f118-p18-o1 input::placeholder
+{
+color: #939292;
+margin: 0px !important;
+padding: 0px 0px 0px 0px !important;
+}
+div#wpcf7-f118-p18-o1 input::textarea
+{
+color: #939292;
+    border: none !important;
+    box-shadow: 0px 0px 0px transparent;
+}
+form.wpcf7-form input {
+    border: none;
+    box-shadow: 0px 0px 0px transparent;
+    border-bottom: 1px solid #bec9d2 !important;
+}
+.down-arrow span.vc_icon_element-icon.fa.fa-chevron-circle-down {
+      background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/down-arrow.png");
+    background-size: 97% 95%;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent !important;
+    width: 35px;
+    height: 35PX;
+}
+.down-arrow-white span.vc_icon_element-icon.fa.fa-chevron-circle-down {
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/down-arrow-white.png");
+    background-size: 90% 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent !important;
+}
+p.contact_para {
+    text-align: center;
+    font-size: 16px;
+}
+
+.vc_column-inner.vc_custom_1516192373724
+{
+position: relative;
+    left: -229.188px;
+    box-sizing: border-box;
+    width: 1684px;
+}
+.one-bg{   display: block;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 0;    background-size: 100% 100%;}
+
+.two-bg{   display: block;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 0;    background-size: 100% 100%;}
+
+.red-bg{   display: block;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 0;    background-size: 100% 100%;}
+
+.three-bg{   display: block;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 0;    background-size: 100% 100%;}
+
+button.vc_general.vc_btn3.vc_btn3-size-lg.vc_btn3-shape-square.vc_btn3-style-custom
+{
+    background-color: #0d64af;
+    color: #ffffff;
+    border: solid;
+    font-size: 32px;
+    width: 24%;
+}
+.vc_column-inner.vc_custom_1516192849643
+{
+   position: relative; 
+     left: -229.188px; 
+   box-sizing: border-box; 
+   width: 1684px; 
+}
+/*.wpb_text_column.wpb_content_element.vc_custom_1516192960522.one-bg {
+    display: block;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 0;
+}*/
+
+.one-bg {
+    display: block;
+    width: 100%;
+    height: auto !important;
+    margin-bottom: 0 !important;
+    background-size: 100% 100% !important;
+    height: 250px !important;
+}
+
+
+.wpb_text_column.wpb_content_element.vc_custom_1516192353697.two-bg {
+    display: block;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 0;
+}
+
+.wpb_text_column.wpb_content_element.vc_custom_1516192364408.red-bg {
+    display: block;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 0;
+}
+
+.wpb_text_column.wpb_content_element.vc_custom_1516192380698.three-bg {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 0;
+}
+
+
+.third-col-sec {
+    width: 100%;
+    height: 430px;
+    margin-bottom: 0;
+    display: block;
+}
+@media only screen and (max-width: 500px) { .third-col-sec { height:350px;}  .hard-sec .four-bg.vc_col-sm-3 {height:350px;} .hard-sec .five-bg.vc_col-sm-3 {height:400px;}}
+
+.forth-col-sec {
+    width: 100%;
+    height: 430px;
+    margin-bottom: 0;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.vc_custom_1516199296198 {
+    background-size: cover;
+}
+
+
+.testimonial-sec .vc_separator.wpb_content_element.vc_separator_align_center.vc_sep_width_100.vc_sep_pos_align_center.vc_separator_no_text.vc_sep_color_grey {
+    display: none;
+}
+.down-arrow {
+    margin-bottom: 0px !important;
+}
+
+
+.one-bg h4, .two-bg h4, .three-bg h4, .red-bg h4 {
+     padding-top: 5%;
+    display: block;
+    text-align: left;
+    margin-bottom: 0;
+    padding-bottom: 3%;
+}
+
+.hard-sec .vc_col-sm-3 .wpb_wrapper h4{color:#fff !Important;padding-left:10%;font-family: 'Raleway', sans-serif; font-weight:600;}  
+.hard-sec h4 {
+    font-size: 24px !important;
+	padding-bottom:20px;
+	padding-top:25px;
+}
+
+.hard-sec .vc_col-sm-3 .wpb_wrapper p{
+    color: #fff !Important;
+    padding-left: 10%;
+    font-family: 'Raleway', sans-serif;
+    width: 80%;
+    font-size: 15px;
+    line-height: 22px;
+}  
+
+.hard-sec  .vc_col-sm-3 .wpb_wrapper a{color: yellow !Important;padding-left:10%;font-family: 'Raleway', sans-serif; letter-spacing:1px; font-size:15px; opacity:0.6;} 
+.hard-sec .vc_col-sm-3 .wpb_wrapper a:hover {
+    text-decoration: none;
+    color: yellow !important;
+	opacity:1;
+}
+
+
+.hard-sec .wpb_wrapper > div {
+    margin-bottom: 0 !important;
+}
+.vc_row.wpb_row.vc_row-fluid.hard-sec.vc_row-no-padding.vc_row-o-content-middle.vc_row-flex {background-color: #01325d;}
+.wpb_column.vc_column_container.vc_col-sm-3.vc_col-has-fill {
+    background-color: #01325d;
+}
+
+.one-bg {
+background: #5784c7 url("http://www.dicetek.net/wp-content/uploads/2018/01/home-box-1.jpg") !important;
+background-size: cover !important;
+background-position:center right;
+filter: drop-shadow(0px 0px 0px black);
+box-shadow: inset 0 3px 15px rgba(0,0,0,0.35);
+}
+
+.two-bg{
+background: #068ab0 url("http://www.dicetek.net/wp-content/uploads/2018/01/home-box-2.jpg") !important;
+background-size: cover !important;
+background-position:center right;
+filter: drop-shadow(0px 0px 0px black);
+box-shadow: inset 0 3px 15px rgba(0,0,0,0.35);
+}
+
+.five-bg{
+background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/hard-sec-4-bg.png") !important;
+background-size: cover !important;
+background-position:center center;
+}
+
+.red-bg{
+background: #e5222c url("http://www.dicetek.net/wp-content/uploads/2018/01/home-box-3.jpg") !important;
+background-size: cover !important;
+background-position:center right;
+filter: drop-shadow(0px 0px 0px black);
+box-shadow: inset 0 3px 15px rgba(0,0,0,0.35);
+}
+
+.vc_custom_1517409320818 .red-bg {background: none !important;}
+
+.three-bg{
+background: #2e405d url("http://www.dicetek.net/wp-content/uploads/2018/01/home-box-4.jpg") !important;
+background-size: cover !important;
+background-position:center right;
+filter: drop-shadow(0px 0px 0px black);
+box-shadow: inset 0 3px 15px rgba(0,0,0,0.35);
+}
+
+.four-bg {box-shadow: inset 0 3px 15px rgba(0,0,0,0.35);}
+
+
+.POWEREDBY {
+    FLOAT: RIGHT;
+    MARGIN-TOP: 10PX;
+    padding-right: 10px;
+}
+
+#Action_bar .column.one {
+    background-color: rgba(10,110,182,0.75);
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 0%;
+    height: 40px;
+}
+
+
+div#Top_bar {
+    top: 40px;
+	box-shadow: 0 3px 10px rgba(0,0,0,0.35);
+}
+
+.page-id-5 #Action_bar .column.one
+{    background-color: transparent;
+     font-size: 18px;
+}
+
+.page-id-5 div#Top_bar {
+    background-color: rgba(256,256,256,0.9 )!important;
+    top: 50px;height: 70px;
+	box-shadow: 0 3px 10px rgba(0,0,0,0.35);
+}
+
+
+.page-id-5 .top_bar_left .logo a#logo{padding-top:0px !Important} 
+
+.white-button button {
+    background-color: #fff !important;
+    color: #a09f9f !important;
+    border: 1px solid #bec9d2 !important;
+    padding: 10px 25px !important;
+    font-family: 'Raleway', sans-serif;
+}
+
+.down-arrow span span.vc_sep_line {
+    display: none !important;
+}
+
+/*
+ *  scroll bAR STYLE 2
+ */
+
+#style-2::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.1);
+    box-shadow: inset 0 0 2px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	background-color: transparent !important;
+}
+
+#style-2::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: transparent !important;
+}
+
+#style-2::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.1);
+    box-shadow: inset 0 0 2px rgba(0,0,0,0.1);
+	background-image: url("scrollthumb.png") !important;
+}
+
+#style-2::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: transparent !Important;
+}
+
+#style-2::-webkit-scrollbar-button:vertical:decrement{
+	background-image: url("arrow-up.png");
+	background-repeat: no-repeat;
+    background-position: center center;
+	background-color:transparent !important;
+}
+#style-2::-webkit-scrollbar-button:vertical:increment{
+	background-image: url("arrow-down.png");
+	background-repeat: no-repeat;
+    background-position: center center;
+	background-color:transparent !important;
+}
+
+
+.scrollbar
+{
+    margin-left: 30px;
+    float: left;
+    height: 660px;
+    overflow-y: scroll;
+}
+
+.force-overflow
+{
+	min-height: 450px;
+}
+
+ul.testimonials_slider_ul a.button {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+h2.tf-client-name {
+    color: #fff!important;
+}
+
+.about-sec-3 h3{color:#fff;}
+
+.about-sec-3 p{color:#fff;}
+
+span.bold-head {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;    
+}
+
+.about-sec-3 .wpb_wrapper p {
+    font-family: 'Raleway' , sans-serif;
+    line-height: 27px;
+    color: #333;
+}
+
+/*.about-sec-3 .wpb_wrapper p:first-child {font-weight:600 !important;}*/
+
+.about-sec-5 .text.heading-text {
+    color: #fff !important;
+}
+
+
+#Top_bar .menu > li ul {
+           background-color: rgb(15, 84, 154);
+    font-size: 16px;
+   
+}
+
+#Top_bar .menu > li ul :hover {
+    background-color: rgb(234, 10, 42);
+}
+
+#Top_bar .menu li ul li a {padding-right:10px !important;}
+#Top_bar .menu li ul li a span:hover {background-color:transparent !important;}
+#menu-item-1729 ul.sub-menu li {max-width:240px !important;}
+
+
+.about-sec-5 .wpb_wrapper p {
+    color: #fff;
+}
+
+h3.bold-head {
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 5px;
+	font-size:30px;
+	text-transform:uppercase;
+	line-height:35px;
+}
+
+.about-sec-5  .wpb_text_column.wpb_content_element {
+    margin-bottom: 0px;
+}
+
+
+span.bold-head {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+.about-sec-3 .wpb_wrapper p {
+ 	width: 100%;
+    font-size: 18px !Important;
+    line-height: 22px;
+	margin-top:30px !important;
+}
+
+ul.about-sec-6-ul {
+    list-style-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/blue-tick.png");
+    list-style-position: outside;
+}
+
+ul.about-sec-6-ul li {
+margin-top:-10px;
+}
+
+.about-sec-6-right ul.about-sec-6-ul {
+    margin: 0 auto;
+    padding-left: 20%;
+    background-color: #fff;
+    display: block;
+}
+
+.about-sec-6-right ul.about-sec-6-ul li{    margin-bottom: 20px;
+    font-size: 20px;
+	line-height:26px;
+    color: #333;}
+
+.about-sec-6-right ul.about-sec-6-ul {
+    padding-top: 15%;
+    margin: 0 auto;
+}
+
+.about-our-team .vc_column-inner {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+.about-journey-inner-content h5 {
+    float: none;
+    display: block !important;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    font-size: 20px !important;    padding-left: 5%;
+}
+
+.about-journey-inner-content h5:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/sep-blue.jpg");
+    position: relative;
+    z-index: 100000;
+    left: -9px;
+    top: -3px;
+    height: 3px;
+}
+
+.about-journey-inner-content h5:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/sep-blue.jpg");
+    position: relative;
+    z-index: 100000;
+    left: 11px;
+    top: -3px;
+    height: 3px;
+}
+.dice-left-icon {
+    display: inline-block;
+    /*float: left;*/
+    height: 30px;
+    vertical-align: middle;
+    content: normal;
+    position: relative;
+    top: -15px;    left: 15px;
+    padding-right: 10px;
+  
+}
+
+.about-journey-inner-content h3 {
+    padding-left: 2% !important;
+    float: left;
+   font-size: 250%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.about-journey-inner-content {
+    width: 95%;
+	max-width:970px;
+    margin: 0 auto;
+}
+
+.wrapper-container.ceo-message-head {min-height:auto !important;}
+.ceo-message-head .text.heading-text {color: #FFF;}
+.ceo-message-head .text:before {content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");}
+.ceo-message-head .text:after {content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");}
+.ceo-message-head h3.page-custom-head {color: #FFF;}
+
+
+
+.about-ceo-msg {
+	background-size:cover;
+	background-position: center top;
+	background-repeat:no-repeat;
+}
+.ceo-msg {
+    width: 65%;
+    padding-bottom: 5%;
+    display: inline-block;
+    margin-top: -2%;
+    padding: 2%;
+}
+
+.ceo-msg:before{
+	content: '';
+	background:url("http://www.dicetek.net/wp-content/uploads/2018/01/quote-icon.png");
+	position: relative;
+	margin-left:-80px;
+	display:block;
+	height:42px;
+	width:48px;	
+}
+
+@media only screen and (max-width: 1200px){.about-ceo-msg {background-size:120%;}}
+@media only screen and (max-width: 768px){.about-ceo-msg {background-size:210%;}}
+@media only screen and (max-width: 500px){.about-ceo-msg {background-size:700%;} .ceo-msg:before {margin-left:auto; margin-right:auto; margin-bottom:40px;}}
+
+
+.ceo-msg p:first-child {margin-top:-20px;}
+.ceo-msg p {
+    font-size: 18px;
+    line-height: 24px;
+    font-family: 'Raleway' , sans-serif;
+    font-weight: 500;
+	color:#FFF;
+	margin-bottom:20px;
+}
+
+.ceo-msg .ceo-title {font-weight:700; font-size:18px; color:#FFF; display:inline;}
+.ceo-msg .ceo-designation {font-size:16px; font-weight:500; font-style:italic; display:inline; color:#FFF;}
+
+.ceo-img {
+    width: 30%;
+    float: right;
+}
+
+.ceo-img img {
+	border-radius:10px;
+	box-shadow: 0 6px 15px rgba(0,0,0,0.35);
+	border: 3px solid #7483a2;
+	width: 250px;
+	margin-top:40px;
+}
+
+@media only screen and (max-width: 500px) {
+	.ceo-msg, .ceo-img {width:100%; display:block; float:none;}	
+	.ceo-msg p {font-size:16px;}
+	.ceo-msg p, .ceo-title, .ceo-designation {text-align:center;}
+	.ceo-msg p:before {margin-left:-20px;}
+	.ceo-img img {margin:auto; display:block;}
+}
+
+span.credits {
+    margin-top: 10px;
+    float: left;
+}
+
+.color-box-sec p strong {
+       color: #fff;
+    font-size: 250%;
+    text-align: center;
+    line-height: 80px;
+}
+
+.color-box-sec .vc_col-has-fill {
+    margin: 0.32%;
+    width: 16%;
+}
+
+.color-box-sec-text .one {
+  border-left: 2px solid #6092be;
+    padding-left: 5%;
+}
+.color-box-sec-text .two{    border-left:  2px solid #41b09a;
+    padding-left: 5%;}
+.color-box-sec-text .three{ border-left: 2px solid #c15d86;
+    padding-left: 5%;}
+.color-box-sec-text .four{    border-left: 2px solid #d4b84b;
+    padding-left: 5%;}
+.color-box-sec-text .five{   border-left: 2px solid #64ba4d;
+    padding-left: 5%;}
+.color-box-sec-text .six{   border-left: 2px solid #bc8b4a;
+    padding-left: 5%;}
+
+.top_bar_left .logo a#logo{padding-top:0px !Important} 
+
+ul.sub-menu li {
+    border-bottom: 1px solid rgba(211,211,211,0.5) !important;
+ 
+}
+
+.vc_row.wpb_row.vc_inner.vc_row-fluid.color-box-sec-text {
+    margin-bottom: 0px;
+}
+
+.color-box-sec-text .vc_column-inner {
+    padding-left: 1.5%;
+    height: 150px;
+
+}
+
+.wpb_text_column.wpb_content_element.two {
+    margin-bottom: 10px;
+    height: 160px;
+    margin-left: 0px;
+}
+
+.wpb_text_column.wpb_content_element.one {
+    margin-bottom: 10px;
+    height: 160px;
+    margin-left: 0px;
+}
+
+.wpb_text_column.wpb_content_element.three {
+    margin-bottom: 10px;
+    height: 160px;
+    margin-left: 0px;
+}
+
+.wpb_text_column.wpb_content_element.four {
+    margin-bottom: 10px;
+    height: 160px;
+    margin-left: 0px;
+}
+
+.wpb_text_column.wpb_content_element.five {
+    margin-bottom: 10px;
+    height: 160px;
+    margin-left: 0px;
+}
+
+
+.wpb_text_column.wpb_content_element.six {
+    margin-bottom: 10px;
+    height: 160px;
+    margin-left: 0px;
+}
+
+
+
+ul.contact_details li {
+    padding: 10px 60px !important; color: #fff;
+}
+
+ul.social li a i {
+    color: #fff;    font-size: 20px;   
+}
+
+#Action_bar .social {
+    float: right;
+    padding: 10px 100px 0;
+}
+
+
+
+.about-sec-2 {
+    background-color: #fff;
+    width: 95%;
+    margin: 0 auto;
+    margin-top: -15%;
+}
+
+.abouts-ec-3{background-color: #fff;
+    width: 95%;
+    margin: 0 auto;}
+
+.infobox_wrapper ul li {
+    list-style-type: disc;
+    list-style-position: inside;
+    color: #000;
+}
+
+.about-sec-2-2 {
+    padding: 20px;
+    background-color: #fff;
+	padding-bottom:0;
+}
+
+.about-sec-3 p {
+    color: #333;
+    width: 100%;
+}
+
+.hard-sec .wpb_wrapper p a {
+   
+    padding-top: 10px !important;
+    padding-left: 0px !important;
+    position: relative;
+    top: 15px;
+}
+
+.about-sec-5 .right-sec {
+    display: block;
+    float: left;
+    height: 100%;
+
+}
+
+.contact-sec-1 {
+    background-color: #fff;
+}
+
+/* .button-style-1 button {
+    border: 3px solid #0D64AE !important;
+    padding: 20px 70px !important;
+    color: #0d64af !important;
+    font-size: 25px !important;
+    background-color: transparent !important;
+}
+
+*/
+
+form.right-sec .green-btn {
+  background-color: #57a748;
+    padding: 9px 100px;
+    display: block;
+    width: 100%;
+    border-radius: 4px;
+    font-size: 160%;
+    font-weight: 500;
+    font-family: "Raleway";
+}
+
+ul.career-job-list li {
+    background-color: #f9f9f9;
+    padding: 15px 10px;
+    list-style-type: none;
+    margin-bottom: 0px;
+    border-bottom: 2px solid #f2f2f2;
+}
+
+ul.career-job-list li span.item {
+  display: block;
+  color: #b3b2b1;
+  font-weight: 400;
+}
+ul.career-job-list li {
+    font-family: 'Raleway', sans-serif;
+    color: #0c0e10;
+    font-size: 140%;
+    font-weight: 600;
+}
+
+ul.career-job-list li span.item:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/right-arrow-icon.png");
+    position: relative;
+    right: 0px;
+    float: right;
+}
+
+
+.page-id-5 ul#menu-mainmenu li a span {
+    color: #000;
+	font-weight:600 !important;
+}
+
+	
+ul#menu-mainmenu > li:after {
+  display:block;
+  content: '';
+  border-bottom: solid 3px #F00;  
+  transform: scaleX(0);  
+  transition: transform 250ms ease-in-out;	
+}
+ul#menu-mainmenu > li:hover:after  { transform: scaleX(1);}
+ul#menu-mainmenu > li:hover a span,
+ul#menu-mainmenu > li.current_page_item a span,
+ul#menu-mainmenu > li.current-menu-parent a span,
+ul#menu-mainmenu > li.current-menu-item a span,
+.single-jobpost #menu-item-1901 a span,
+.single-jobpost #menu-item-307 a span,
+#Top_bar.is-sticky ul#menu-mainmenu > li:hover a span,
+#Top_bar.is-sticky ul#menu-mainmenu > li.current_page_item a span,
+#Top_bar.is-sticky ul#menu-mainmenu > li.current-menu-parent a span,
+#Top_bar.is-sticky ul#menu-mainmenu > li.current-menu-item a span,
+.single-jobpost #Top_bar.is-sticky ul#menu-mainmenu > li#menu-item-1901 a span,
+.single-jobpost #Top_bar.is-sticky ul#menu-mainmenu > li#menu-item-307 a span
+{color:#F00;}
+
+.page-id-5 #Top_bar.is-sticky ul#menu-mainmenu > li:hover > a > span, .page-id-5 #Top_bar.is-sticky ul#menu-mainmenu > li.current_page_item > a > span {color:#F00 !important;}
+
+
+/*ul#menu-mainmenu > li:hover:after, ul#menu-mainmenu > li.current_page_item:after, ul#menu-mainmenu > li.current-menu-parent:after  { transform: scaleX(1);}
+ul#menu-mainmenu > li:hover a span, ul#menu-mainmenu > li.current_page_item a span, ul#menu-mainmenu > li.current-menu-parent a span,
+#Top_bar.is-sticky ul#menu-mainmenu > li:hover a span, #Top_bar.is-sticky ul#menu-mainmenu > li.current_page_item a span, #Top_bar.is-sticky ul#menu-mainmenu > li.current-menu-parent a span {color:#F00;}
+.page-id-5 #Top_bar.is-sticky ul#menu-mainmenu > li:hover > a > span, .page-id-5 #Top_bar.is-sticky ul#menu-mainmenu > li.current_page_item > a > span {color:#F00 !important;}
+*/
+	
+	
+/*h1.fromRight:after{ transform-origin:100% 50%; }
+h1.fromLeft:after{  transform-origin:  0% 50%; }*/
+
+
+@media only screen and (min-width: 1900px) { .page-id-5 ul#menu-mainmenu li a span, ul#menu-mainmenu li a span {font-size:22px;}}
+
+ul#menu-mainmenu li a span {
+font-size:16px;
+}
+
+ul.sub-menu li a span {
+    color: #fff !important;
+	font-size: 14px !important;
+    padding-left: 15px !important;
+    padding-bottom: 2%;
+}
+
+
+.testimonial-sec .vc_column-inner {
+    padding: 0px !important;
+}
+
+.testimonial-sec h3 {
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+.testimonial-sec .sa_hover_container {
+    padding-top: 2% !IMPORTANT;
+}
+
+.testimonial-sec .sa_hover_container {
+    min-height: 200px !important;
+}
+i.icon-up-open-big {
+    background-color: #000;
+}
+
+.white{margin-bottom:0px !Important}
+
+.blue-brackets-bg {
+    background-image: url("http://www.dicetek.net/wp-content/uploads/2018/01/both-blue-brackets.png");
+    background-repeat: no-repeat;
+    height: 180px;
+    margin: 0 auto;
+    text-align: center;
+    background-position: center;
+     padding: 31% 0;
+}
+
+.blue-brackets-bg h4 strong {
+       color: #00315c;
+    margin: 0 auto !IMPORTANT;
+    width: 90%;
+    float: left;
+    font-size: 28px;
+    font-weight: normal;
+    font-family: 'Raleway', sans-serif;
+    line-height: 30px;
+}
+
+.blue-brackets-bg span.span-two {
+color: #00315c;
+    margin: 0 auto !IMPORTANT;
+    width: 90%;
+    float: left;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+.color-box-sec .vc_column-inner:hover {
+    opacity: 0.8;
+}
+
+.testimonial-sec .sa_hover_container p {
+  	max-width: 80%;
+    margin: 0 auto;
+    padding-bottom: 1.5%;
+    overflow: hidden !important;
+	color:#FFF !important;
+}
+
+
+#slider_792 .sa_hover_container p:first-child {
+	font-size:20px;
+	line-height:24px;
+	color:#FFF;
+	margin-bottom:35px;
+}
+#slider_792 .sa_hover_container p:second-child {font-size:20px; line-height:24px; font-weight:500; color:#FFF;}
+#slider_792 .sa_hover_container p span.t-author {font-weight:600;}
+
+.testimonial-sec .sa_hover_container p:first-child:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/left-quote.png");
+    position: absolute;
+    left: 10%;
+    top: 1%;
+}
+.testimonial-sec .sa_hover_container p:first-child:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/right-quote.png");
+    position: absolute;
+    right: 9%;
+    top: 10%;
+}
+
+@media only screen and (max-width: 500px){
+	#slider_792 .sa_hover_container p:first-child { font-size:14px; line-height:18px; margin-bottom:20px; }
+	#slider_792 .sa_hover_container p:second-child {font-size:15px; line-height:18px;}
+	#slider_792 .sa_hover_container p span.t-author {font-weight:600;}
+}
+
+@media only screen and (max-width: 380px){
+	.testimonial-sec .sa_hover_container p:first-child:before,
+	.testimonial-sec .sa_hover_container p:first-child:after {display:none;}
+}
+
+
+.sa_hover_container .hrline{height: 2px;
+    width: 8%;}
+
+.vc_row.wpb_row.vc_row-fluid.about-our-team-sec.vc_custom_1516444236905.vc_row-has-fill.vc_row-no-padding {
+       min-height: 500px;
+    background-size: 100% 100% !important;
+}
+
+
+.sec-6-about-left .vc_column-inner.vc_custom_1516446292976,
+.sec-6-about-left >.vc_column-inner
+ {
+    background-size: contain !important;
+	background-position: center 80px !important;
+    min-height: 535px;
+    padding-top: 10% !important;
+	background-repeat:no-repeat !important;
+}
+
+
+
+
+
+
+.about-our-team-sec .wrapper-container {
+    padding-top: 10%;
+}
+
+/*********** HEAD _ STYLE ***********/
+
+
+.wrapper-container {
+   
+    min-height: 200px;
+    margin: 0 auto;
+    display: block;
+    /*vertical-align: top;*/
+}
+.box-1
+{
+ width: 100%;
+    float: none;
+    text-align: center;
+}
+
+.bottom-line
+{
+    border-bottom: 2px solid #0d64af;
+    width: 32px;
+
+}
+.bottom-line2
+{
+    border-bottom: 2px solid #0d64af;
+    width: 32px;
+}
+
+.text
+{
+color: #0d64af;
+
+}
+.text:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/blue-sep.jpg");
+    position: relative;
+    left: -10px;
+}
+
+.text:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/blue-sep.jpg");
+    position: relative;
+    right: -10px;
+}
+
+.managed-it-head .text:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: -10px;
+}
+
+.managed-it-head .text:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    right: -10px;
+}
+
+.head-style h3.page-custom-head {
+    color: #0d64af;
+    font-size: 45px;
+    font-weight: bold;font-family: 'Raleway';
+	font-weight:700;
+	line-height:50px;
+	letter-spacing:4px;
+}
+
+.head-style .text.heading-text {
+    color: #0d64af;
+    font-size: 25px;
+}
+
+h3.page-custom-head {
+    color: #0d64af;
+    font-family: 'Raleway' , sans-serif;
+    letter-spacing: 5px;
+    font-size: 45px;
+	line-height:50px;
+    margin: 10px auto;
+	font-weight:700;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+}
+@media only screen and (max-width: 1200px){h3.page-custom-head {letter-spacing:3px;}}
+@media only screen and (max-width: 1000px){h3.page-custom-head {line-height:45px; font-size:42px;}}
+
+.text.heading-text {
+    color: #0d64af;
+    font-family: 'Raleway' , sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 21px;
+    margin: 10px auto;
+}
+
+.about-journey-sec h3.page-custom-head {
+    color: #0d64af;
+    font-size: 45px !important;
+    font-weight: 700;
+}
+
+.about-sec-7 .text-box h3.page-custom-head {
+    color: #0d64af !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+	text-transform:uppercase;
+	letter-spacing:5px;
+	text-shadow:0px 0px 10px rgba(0, 0, 0, 0);
+}
+
+.about-sec-3 h5 {
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 5px;
+    font-size: 17px;
+}
+
+.with-blue-head h3.page-custom-head {
+    color: #0d64af !important;
+    font-size: 45px !important;
+	text-transform:uppercase;
+	letter-spacing:5px;
+	font-weight:700 !important;
+	line-height:50px;
+}
+
+.about-sec-7 h5 {
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 5px;
+    font-size: 17px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.color-box-sec-text.about-sec-8 p {
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 3px;
+    font-size: 145%;
+    text-align: left;
+    margin-top: 3px;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.home-sec1 h3.page-custom-head {
+    color: #0d64af !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+	letter-spacing:5px;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+}
+
+.home-sec1 .wrapper-container {
+    padding: 1% 0px;
+    padding-bottom: 0;
+    min-height: 120px;
+}
+
+p.p-container {
+     margin: 0 auto !important;
+    width: 80%;
+    text-align: center !important;
+}
+.home-sec-start-p p {
+	font-size:18px;
+	line-height:25px;
+}
+
+
+div#Mid_btn_slide{
+    margin-bottom: 0px !important;
+}
+
+.mid_btn_slide a, .vc_btn3.vc_btn3-color-primary, .vc_btn3.vc_btn3-color-primary.vc_btn3-style-flat {
+    font-size: 18px;
+    background-color: #0d64af;
+    padding: 10px 40px;
+	border-radius:3px;
+    margin-bottom: 0px !important;
+}
+
+.blue-sec-5-left-content .text.heading-text {
+    color: #fff;
+    display: inline-block;
+    position: relative;
+        top: 25px;
+    left: -70px;
+    font-size: 18px;
+    font-family: 'Raleway',sans-serif;
+}
+
+.blue-sec-5-left .text:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: 4px;
+    top: -3px;
+}
+
+.blue-sec-5-left .text:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: -5px;
+}
+
+.blue-sec-5-left-content .text-box {
+    float: none;
+    margin: 0 auto;
+    margin-top: -7%;
+}
+
+@media only screen and (max-width: 768px) {.blue-sec-5-left.vc_col-sm-6, .blue-bar-sec-5-right.vc_col-sm-6 {width:100% !important;}}
+
+.five-bg > div {
+   background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.carousel-item img{
+height:120px !important;
+width:auto !important;
+}
+
+.bx-viewport {height:150px !important;}
+
+
+.sec-6-right .text:before {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+       left: -10px;
+    top: -5px;
+}
+
+.sec-6-right .text:after {
+    content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+       left: 10px;
+    top: -5px;
+}
+
+.sec-6-right h3 {
+    color: #4f9bdc !important;
+    font-size: 45px !important;
+    font-weight: 500 !important;    margin-top: -30px;
+}
+
+span.blue-head {
+    color: #fff !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+	letter-spacing:4px;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+	line-height: 50px;
+}
+.blue-sec-5-left span.blue-head {text-shadow: 2px 2px 10px rgba(0,0,0,0.8) !important;}
+
+.sec-6-right .text.heading-text {
+    color: #fff;
+    font-family: 'Raleway' , sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 21px;
+    margin: 10px auto;
+}
+
+img.scale-with-grid, #Content img{max-width: 100% !important;
+    height: auto;}
+
+
+
+i.icon-up-open-big {
+    background-color: #000;
+    border-radius: 50%;
+    padding: 0%;
+    position: absolute;
+    left: 0;
+    right: 0px;
+    top: 0px;
+    bottom: 0;
+}
+
+a#back_to_top {
+    position: absolute;
+    right: 5%;
+    bottom: 92px;
+}
+
+.blue-sec-5-left span.portfolio {
+    padding: 0px 0% 0 20%;
+}
+
+
+span.solution {
+    margin: 0 auto;
+    padding: 0px;
+    top: -120px !important;
+}
+
+
+#Top_bar #logo img {
+    vertical-align: middle;
+/*    padding: 8px 0% 0px 10%;*/
+	padding: 0px 0px 0px 10px;
+	height:40px;
+}
+#Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {padding-bottom:0;}
+
+#Top_bar .menu > li > a span:not(.description) {line-height:50px;}
+.blue-brackets-bg a.blue-link{color: #00315c !important;
+    position: relative;
+    z-index: 100;
+	opacity: 1 !important;
+	text-align:center;
+	padding-left: 0 !important;}
+.blue-brackets-bg a.blue-link img {margin:auto; height:50px !important;}
+.blue-link:hover {text-decoration:none;}
+.blue-sec-5-left .text.heading-text {color: #FFF !important;}
+
+span.and {
+  color: #fff !important;
+    font-size: 65px !important;
+    font-weight: 400 !important;
+    margin: 0px 0px !important;
+    position: relative;
+    top: -40px !important;
+    left: -120px !important;
+}
+
+.sa_hover_container p span{
+	padding-left: 10px;
+    padding-right: 10px;
+    font-size: 22px;
+    line-height: 28px;}
+
+.contact_btn input.btn_footer:hover {
+    background-color: rgba(255,255,255,0.5);
+    color: #fff;
+}
+
+i.icon-up-open-big:hover {
+    background-color: wheat;
+    transition: transform .2s;
+}
+
+.home-client-sec h3.page-custom-head {
+    color: #0d64af !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+	text-transform:uppercase;
+	letter-spacing: 5px;
+}
+
+.home-client-sec .wrapper-container {
+    min-height: 0px;
+}
+
+.home-client-sec .wrapper-container p {
+font-size: 18px !important;}
+
+.home-client-sec .wpb_wrapper p, .about-sec-2-2 .wpb_wrapper p {
+ 	font-size: 18px !important;
+    color: #333;
+    line-height: 24px;
+	max-width:800px;
+	margin:auto;
+}
+
+#sample_slider .sa_hover_container {
+    PADDING: 0% 0%!important;
+    MARGIN: 0 !IMPORTANT;
+    width: 235px !IMPORTANT;
+    HEIGHT: 235PX !IMPORTANT;
+}
+
+
+.about-sec-7 .wrapper-container{min-height: 0px;}
+
+span.sub-text {
+color: #fff !important;
+    font-size: 20px !important;
+    font-weight: normal !important;
+    margin: 0px auto!important;
+    position: relative;
+    top: 10px !important;
+    left: 36%;
+    font-family: 'Raleway' ,sans-serif;
+}
+
+.about-sec-2-2 .wpb_wrapper p {
+    font-family: 'Raleway' , sans-serif;
+    line-height: 26px;
+    color: #626262;
+    font-size: 18px !Important;
+    margin-top: 20px;
+}
+
+h4.key-ind-head {
+   padding-top: 0 !important;
+    float: left;
+    padding-bottom: 10px !important;
+    padding-left: 10.2% !IMPORTANT;
+}
+
+.testimonial-area h3 {
+    color: #fff !important;
+    font-size: 55px !important;
+    font-weight: 500 !important;    line-height: 44px;
+}
+
+
+.wpb_text_column.wpb_content_element.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.testimonial-area.wpb_start_animation.animated {
+float: none;
+    margin: 0 auto;
+/*    max-width: 1600px;*/
+    overflow: hidden;
+    text-align: center;
+}
+
+.page-id-12 h3.page-custom-head{
+	color: #0d64af !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+	letter-spacing:5px;
+	line-height:55px;
+}
+
+.page-id-12 .wrapper-container {
+    min-height: 0px !important;
+}
+
+.page-id-12 .vc_separator {
+    margin-bottom: 0px !important;
+}
+
+	.diff-areas h4 {
+    padding-left: 11.5% !important;
+}
+
+.diff-areas .wpb_wrapper p{ 
+    padding-left: 11.5% !IMPORTANT;
+    font-size: 18px;
+    line-height: 24px;
+    padding-bottom: 0;
+    margin-bottom: 0px;
+	font-weight:400;
+}
+
+.about-our-team-sec {
+    height: 570px !important;
+    background-size: 100% 100% !important;
+}
+
+.about-our-team-sec .wpb_single_image {
+    padding-top: 10%;
+    padding-left: 5%;
+    width: 100%;
+}
+.sec-6-right .wrapper-container {
+    padding-top: 10%;
+}
+
+
+@media only screen and (min-width: 1240px)
+{
+ .sticky-dark #Top_bar.is-sticky
+ {
+    background: rgba(256,256,256,0.9);
+    display: inline;
+    max-height: 60px;
+ 	box-shadow: 0 3px 10px rgba(0,0,0,0.35);
+}
+#Top_bar.is-sticky #logo img.logo-sticky
+     {
+   display: inline;
+   max-height: 52px;
+   padding-top:0px;
+     }
+.page-id-5 #Top_bar.is-sticky #logo img.logo-sticky {
+    display: inline;
+    max-height: 52px;
+	padding-top:0px;
+}
+
+}
+
+.home-sec-start-p p.p-container {
+    width: 93%;
+    margin: 0 auto;
+}
+
+
+
+.blue-gradiant {
+    background: rgb(13,100,175);
+    background: -moz-linear-gradient(top, rgba(13,100,175,1) 0%, rgba(125,185,232,1) 100%);
+    background: -webkit-linear-gradient(top, rgba(13,100,175,1) 0%,rgba(125,185,232,1) 100%);
+    background: linear-gradient(to bottom, rgba(13,100,175,0.7) 0%,rgba(125,185,232,0.7) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d64af', endColorstr='#7db9e8',GradientType=0 );
+}
+
+.about-sec-5 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left -100px top;
+	background-color:#0d64af;
+}
+
+@media only screen and (min-width: 1441px){.about-sec-5 { background-position: left top;}}
+@media only screen and (max-width: 1240px){.about-sec-5 { background-position: -100px bottom;}}
+@media only screen and (max-width: 1100px){ul.core-values-points {margin-left:50px !important;} .about-sec-5 { background-position: -300px bottom;}}
+@media only screen and (max-width: 768px){ul.core-values-points {margin-left:20px !important;} .about-sec-5 { background-position: -400px bottom;}}
+@media only screen and (max-width: 500px){.about-sec-5 { background-position: center center;}}
+
+
+.sticky-header .is-sticky ul#menu-mainmenu li a span {
+    color: #000;
+	font-weight:600 !important;
+}
+
+.intro-tex .wpb_wrapper p {
+    font-size: 18px;
+    padding: 0px 0.5%;
+    line-height: 26px;
+}
+.serv_port
+{
+    color: #fff!important;
+    font-size: 45px !important;
+    font-weight: 500 !important;
+    font-family: Raleway;
+}
+.p_readmore
+{
+     color: #f3cb08 !important;
+    font-size: 18px !important;
+}
+.slider_text
+{
+font-family: 'Raleway', sans-serif;
+font-size:50px;
+color:#fff; 
+text-align:center !important;
+}
+
+
+.slider_click_row span.slide-more-btn {
+    position: relative;
+    top: -50px;
+    width: 130px !important;
+    background-color: rgba(0,0,0,0.5);
+    height: 100px !important;
+    color: #fff;
+    padding: 14px 40px;
+	font-size:18px;
+	border-radius:4px;
+}
+
+.slider_click_row span.slide-more-btn:hover{cursor:pointer;background-color: rgba(0,0,0,1);}
+
+.slider_click_row a {
+    text-decoration: none;
+}
+
+
+.mang-serv-section-1 h3.page-custom-head {
+    color: #0d64af !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+	letter-spacing:5px;
+	line-height:55px;
+}
+
+.mang-serv-section-1 .wrapper-container {
+    min-height:0px !important;
+}
+
+
+.wrapper-container.services .text.heading-text {
+    color: #fff;
+    min-height: 0px !important;
+ }
+
+.wrapper-container.services{    min-height: 0px !important;}
+
+.wrapper-container.services h3.page-custom-head {
+    color: #0d64af !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+	letter-spacing:5px;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+	line-height:50px;
+}
+
+.block-chain-new-sec .wrapper-container.services h3.page-custom-head, 
+.vc_custom_1516203768065 .wrapper-container.services h3.page-custom-head
+{color: #FFF !important; }
+
+.wpb_wrapper table tr td h6 {
+    color: #000000;
+    line-height: 24px !important;
+    font-size: 20px !important;
+    font-family: 'Raleway' , sans-serif !important;
+}
+
+.serv-page-lower-area .wpb_wrapper p strong {
+    line-height: 24px !important;
+    font-size: 18px !important;
+    font-family: 'Raleway' , sans-serif !important;
+}
+
+.serv-page-lower-area .wpb_text_column {
+    background-color: rgba(215,229,242,0.5) !important;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.page-id-286 .wpb_wrapper .wpb_text_column p strong{
+color: #000000;
+    line-height: 24px;
+    font-size: 20px;
+    font-family: 'Raleway' , sans-serif !important;}
+
+.firstcharacter {
+  color: #0d64af;
+  font-size: 50px;
+}
+.firstcharacter_solution {
+  color: #000;
+  font-size: 50px;
+}
+.footerlist li {
+    font-weight: 500 !important;
+}
+.table-div table {
+    width: 80%;
+    margin: 0 auto;
+    float: none;
+}
+
+.business-chain-list ul {
+    list-style-type: none;
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.business-chain-list ul li {
+    font-size: 18px !IMPORTANT;
+    font-weight: 400;
+}
+.sq-bracket-white .wrapper-container {
+    min-height: 0px !IMPORTANT;
+    padding-top: 35%;
+    padding-left: 4%;
+}
+.sq-bracket-white .wrapper-container .text.heading-text {
+    color: #fff;
+}
+
+.sq-bracket-white .wrapper-container h3.page-custom-head {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+.sq-bracket-white .text.heading-text:before {
+content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: -10px;}
+
+.sq-bracket-white .text.heading-text:after {
+content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg");
+    position: relative;
+    left: 3%;}
+	
+@media only screen and (max-width: 540px) and (min-width: 320px)  {
+
+.sub-blue-bar h3
+{
+line-height: 30px !important;
+}
+
+.sub-blue-bar h3
+{
+line-height: 30px !important;
+}
+
+.hrline{margin:0 auto !Important;}
+
+#Top_bar, #Action_bar {background-color:transparent !important;}
+.page-id-5 #Action_bar .column.one
+{
+    background-color: rgba(10,110,182,0.75);
+}
+
+.section_wrapper, .container, .four.columns .widget-area 
+{
+    padding-left: 0px !Important; 
+    padding-right: 0px !Important;
+}
+
+.wpb_text_column.wpb_content_element.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.testimonial-area.wpb_start_animation.animated {
+ 
+    max-width: 1600px !Important;
+
+}
+
+span.blue-head {
+
+    line-height: 45px;
+}
+
+
+
+
+.number-list ul.left-numbers {
+    padding: 0px;
+    list-style-type: none !important;
+    margin-left: 0px !important;
+    padding-top: 15%;
+}
+
+.blue-sec-5-right-content ul.sec-5-content {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none !important;
+    padding-top: 10%;
+}
+.blue-sec-5-left-content .text.heading-text{left:0px !Important;}
+.blue-sec-5-left span.portfolio{    left: -260px !important;}
+.hard-sec .vc_col-sm-3 .wpb_wrapper h4 {
+    line-height: 24px;
+}
+.vc_row.wpb_row.vc_row-fluid.about-our-team-sec.vc_custom_1516444236905.vc_row-has-fill.vc_row-no-padding {
+    height: 250px;
+    background-size: 100% 50% !important;
+}
+.color-box-sec .vc_col-has-fill {
+    margin: 0.32%;
+    width: 100%;
+}
+
+.sq-bracket-white{
+width:100%;
+background-position: center;
+    padding-left: 0;
+}
+
+.sec-6-bg .white {
+    background-color: transparent !important;
+    border: solid 0px #f0f0f0;
+}
+
+.sec-6-bg {
+    max-height: 1345px;
+}
+
+table{
+margin-left:-100px;
+}
+table.noborder-flip {margin-left:0px;}
+.infobox{
+    margin-left: -50px;
+    margin-right: -50px;
+
+}
+.lanclass {
+    width: 100%  !important;
+}
+.wpb_start_animation {
+    opacity: 1 !important;
+}
+.septext h4 {
+    color: #0d64af  !important;
+}
+.iconboxes {
+    width: 100% !important;
+}
+.iconborder {
+    margin: 0 !important;
+    padding: 10% !important;
+}
+.tickimage {
+    width: 20%;
+    float: left;
+}
+.vc_sep_width_20 {
+    width: 50%;
+}
+.page-id-12 h3.page-custom-head {
+    line-height: 1;
+	font-size:35px !important;
+}
+h3.page-custom-head {
+    line-height: 1;
+}
+/**ul.sec-5-content li h4 {
+    font-size: 16px;
+    margin-bottom: 0px;
+}**/
+ul.sec-5-content li p {
+    color: #fff;
+    font-family: "Raleway";
+    line-height: 14px;
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.p_readmore {
+    color: #f3cb08 !important;
+    font-size: 12px !important;
+}
+.iconboxes {
+    width: 49% !important;
+    float: left;
+}
+h2.vc_custom_heading.wpb_animate_when_almost_visible.wpb_fadeInDown.fadeInDown.vc_custom_1516705339428.wpb_start_animation.animated {
+    font-size: 17px;
+    color: #ffffff;
+    /* line-height: 40px; */
+    text-align: center;
+    font-family: Raleway;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h3.contact_heading {
+line-height: 1;
+}
+input.wpcf7-form-control.wpcf7-submit {
+    width: 100% !important;
+}
+.iconboxes .vc_column-inner{
+    box-sizing: content-box;
+    width: 95%;
+}
+.footerboxes .vc_column-inner {
+    min-height: 765px !important;
+}
+.text.heading-text {
+    letter-spacing: 0 !important;
+}
+.button-style-1 button {
+    width: auto!important;
+}
+}
+
+
+@media only screen and (max-width: 750px) and (min-width: 540px)  {
+.iconboxes {
+    width: 49% !important;
+    float: left;
+}
+.iconborder {
+    padding: 20% !important;
+    margin: 0 !important;
+}
+.vc_sep_width_20 {
+    width: 50%;
+}
+}
+
+ul.sec-5-content li, ul.left-numbers li {margin-bottom:20px !important;}
+
+@media only screen and (min-width : 1800px) {
+ul.sec-5-content li, ul.left-numbers li {height:140px;}
+ul.sec-5-content li:nth-child(3), ul.left-numbers li:nth-child(3) {height:140px;}
+ul.sec-5-content li:nth-child(4), ul.left-numbers li:nth-child(5) {height:140px;}
+ul.sec-5-content li:nth-child(7), ul.left-numbers li:nth-child(7) {height:140px;}
+}
+
+@media only screen and (min-width : 1300px) and (max-width : 1799px) {
+ul.sec-5-content li, ul.left-numbers li {height:160px;}
+ul.sec-5-content li:nth-child(3), ul.left-numbers li:nth-child(3) {height:190px;}
+ul.sec-5-content li:nth-child(5), ul.left-numbers li:nth-child(5) {height:170px;}
+ul.sec-5-content li:nth-child(7), ul.left-numbers li:nth-child(7) {height:210px;}
+	
+}
+
+
+@media only screen and (min-width : 1300px) and (max-width : 1300px) {
+h1.slider_heading {
+    font-size: 300% !important;
+    display: inline-block;
+    text-align: center !important;
+    margin: 0 auto !important;
+    margin-bottom: 3% !important;
+}
+
+ul.left-numbers li img {height:75px !important;}
+ul.sec-5-content li a h4, ul.sec-5-content li h4 {
+	font-family: 'Raleway' , sans-serif;
+	font-size:22px;
+    font-weight: 700;
+	padding-bottom:15px !important;
+}
+ul.sec-5-content li p {font-size:18px; line-height:22px;}
+}
+
+@media only screen and (max-width : 1200px) {
+ul.sec-5-content li, ul.left-numbers li {height:130px;}
+ul.sec-5-content li:nth-child(3), ul.left-numbers li:nth-child(3) {height:160px;}
+ul.sec-5-content li:nth-child(5), ul.left-numbers li:nth-child(5) {height:160px;}
+ul.sec-5-content li:nth-child(7), ul.left-numbers li:nth-child(7) {height:180px;}
+}
+
+@media only screen and (max-width : 1024px) {
+ul.sec-5-content li, ul.left-numbers li {height:130px;}
+ul.sec-5-content li:nth-child(3), ul.left-numbers li:nth-child(3) {height:150px;}
+ul.sec-5-content li:nth-child(5), ul.left-numbers li:nth-child(5) {height:150px;}
+ul.sec-5-content li:nth-child(7), ul.left-numbers li:nth-child(7) {height:160px;}
+
+.industry-portfolio-left {width:55%;} .industry-portfolio-right {width:45%;}
+.sec-6-right .wrapper-container {padding-top:0px !important;}
+.industry-portfolio-left, .industry-portfolio-right {width:100%;}
+.about-sec-2-2 .wpb_wrapper p, .about-sec-5 .wpb_wrapper p {font-size:16px !important; line-height:20px !important;}
+.about-sec-3 .wpb_wrapper p {margin-top:45px;}
+}
+
+
+@media only screen and (max-width : 768px) {
+	ul.sec-5-content li, ul.left-numbers li {height:130px !important; margin-bottom:20px !important;}	
+	ul.left-numbers li img {height:65px !important;}
+}
+
+@media only screen and (max-width : 500px) {
+	ul.sec-5-content li, ul.left-numbers li {height:150px !important; margin-bottom:20px !important;}	
+	ul.left-numbers {padding-right:10px !important;}
+	ul.left-numbers li img {height:35px !important; margin-top:20px;}	
+	.scrollbar{ margin-left: 10px;}
+	.sec-6-right span.blue-head {font-size: 30px !important; line-height:40px !important;}
+	.sec-6-bg p {padding-left:0 !important; padding-right:0 !important;}
+	.vc_custom_1516483752293 {padding-right:0px !important; padding-left:0 !important;}
+	.diff-areas .wpb_wrapper p {padding-left:0 !important; padding-right:20px !important;}
+	.home-client-sec .wpb_wrapper p {padding-left:15px; padding-right:15px;}
+	span.blue-head {font-size:30px !important; line-height:40px !important;}
+	.testimonial-sec {min-height:550px;}
+	.wpb_text_column.wpb_content_element.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.testimonial-area.wpb_start_animation.animated {height: 550px !important;}
+	.sa_hover_container p span{ padding-left: 30px; padding-right: 30px; padding-bottom:30px; font-size: 18px; line-height: 24px;}
+	#slider_792 .sa_hover_container p {max-width:260px !important; margin:auto;}
+	#slider_792 .owl-carousel .owl-stage-outer {max-height:400px !important;}
+	#slider_792 .hrline {margin-top:30px!important; margin-bottom:30px !important;}
+
+}
+
+#slider_2150 .owl-item > div, #portfolio_slider .owl-item > div {background-size:85% auto !important;}
+.Heading-title {text-align:center; text-shadow: 0px 0px 10px rgba(0, 0, 0, 1);}
+.feature-text-slider {text-shadow: 0px 0px 10px rgba(0, 0, 0, 1);}
+
+.wpb_wrapper div.scrolling-area {margin-bottom:0 !important;}
+
+
+
+/* JOURNEY */
+
+.journey-container {
+	max-width:1275px;
+	margin:0 auto;
+}
+
+.history-page {
+	background: #fff;
+	padding: 0 30px 30px 30px;
+}
+.history-page .site-title {
+	color: #333333;
+	font-size: 36px;
+	margin-bottom: 10px;
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+}
+.history-timeline {
+	margin: 30px 79px !important;
+	position: relative;
+}
+.history-timeline:before {
+	position: absolute;
+	left: -109px;
+	right: -113px;
+	background: url("http://www.dicetek.net/wp-content/uploads/2018/01/history-bg.png") no-repeat center 0;
+	height: 367px;
+	content: "";
+	top: 135px;
+}
+.history-timeline li {
+	width: 21.4%;
+	padding: 0 17px;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 16px;
+	font-family: "Raleway", sans-serif;
+	line-height: 24px;
+	text-align: center;
+	font-weight:500;
+	position: relative;
+	margin-bottom:0 !important;
+}
+.history-timeline li .year {
+	display: block;
+	color: #062f4f;
+	font-size: 22px;
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+	font-weight:700;
+	padding-top: 250px;
+	line-height: 20px;
+}
+.history-timeline li .started {
+	color: #062f4f;
+	font-size: 18px;
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+	font-weight:600;
+	display: block;
+	padding-bottom: 5px;
+}
+.history-timeline li:nth-child(2n+2) .year {
+	padding-top: 0;
+	padding-bottom: 180px;
+}
+.history-timeline li:nth-child(2n+2) {
+	margin: 300px -133px 0;
+}
+.history-timeline li:nth-child(3) .year {
+	padding-top: 200px;
+}
+.history-timeline li:nth-child(5) .year {
+	padding-top: 250px;
+}
+.history-timeline li:nth-child(7) .year {
+	padding-top: 242px;
+}
+.history-timeline li:nth-child(7) {
+	color: #062f4f;
+	font-size: 20px;
+	line-height: 29px;
+}
+@media (max-width: 1450px) {
+.journey-container, .home .journey-container {
+	max-width: 1120px;
+}
+.history-timeline:before {
+	left: -30px;
+	right: -30px;
+	top: 175px;
+	background-size: 100%;
+}
+.history-timeline {
+	margin: 30px 0 !important;
+	position: relative;
+	padding: 0 0 0 58px;
+}
+.history-timeline li:nth-child(2n+2) {
+	margin: 300px -122px 0;
+}
+.history-timeline li {
+	width: 20%;
+}
+.history-timeline li:nth-child(5) .year {
+	padding-top: 225px;
+}
+.history-timeline li:nth-child(3) .year {
+	padding-top: 200px;
+}
+.history-timeline li:nth-child(1) .year {
+	padding-top: 230px;
+}
+.history-timeline li:nth-child(7) .year {
+	padding-top: 210px;
+}
+}
+ @media (max-width: 1260px) {
+.journey-container, .home .journey-container {
+	max-width: 1000px;
+}
+.history-timeline li:nth-child(2n+2) {
+	margin: 300px -110px 0;
+}
+
+.history-timeline li {
+	width: 20.3%;
+}
+
+}
+ @media (max-width: 1000px) {
+.journey-container, .home .journey-container {
+	max-width: 100%;
+}
+.history-timeline {
+	margin: 0;
+	padding: 0
+}
+.history-timeline li {
+	width: 100%;
+	padding: 65px 15px 0 15px;
+	display: block;
+	text-align: left;
+	position: relative;
+	text-align: center;
+	margin: 0 0 30px 0 !important
+}
+.history-timeline:before {
+	display: none;
+}
+.history-timeline li .year {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	background: #062f4f;
+	color: #fff;
+	padding: 10px 10px 10px 10px !important;
+	line-height: 25px;
+	border-radius: 13px;
+	margin: 0 0 0 -50px;
+	width: 100px;
+}
+.history-timeline li:nth-child(2n+2) {
+	margin: 30px 0 0;
+}
+.history-timeline li .year br {
+	display: none;
+}
+}
+ @media (max-width: 768px) {
+.history-timeline li {
+	padding: 65px 20px 0 20px;
+}
+}
+
+
+/* JOURNEY 2 START*/
+
+.timeline-wrapper {
+  background-color: #fff;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
+.timeline-wrapper:before {
+  content: '';
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  bottom: 0px;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 10px;
+  background-color: #0d64af;
+  border-radius:10px;
+}
+.timeline-wrapper .entries {
+  width: calc(100% - 80px);
+  max-width: 800px;
+  margin: auto;
+  position: relative;
+  left: -5px;
+}
+.timeline-wrapper .entries .entry {
+  width: calc(50% - 80px);
+  float: left;
+  padding: 20px;
+  clear: both;
+  text-align: right;
+background: #f6f6f6;
+  box-shadow: 0 20px 25px -15px rgba(0, 0, 0, 0.3);
+  background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/timeline-bg.png");
+  background-repeat:no-repeat;
+  background-position: left -40px;
+
+}
+
+.timeline-wrapper .entries .entry:not(:first-child) {
+  margin-top: -60px;
+}
+/*.timeline-wrapper .entries .entry .title {
+  font-size: 32px;
+  margin-bottom: 12px;
+  position: relative;
+  color: #000;
+}*/
+
+.timeline-wrapper .entries .entry .title
+{  
+background: rgba(13,100,175,0.8);
+border-radius:10px;
+  color: #FFFFFF;
+  padding: 5px 10px;
+  font-size: 28px;
+  font-weight:600;
+  margin-bottom: 12px;
+  position: relative;
+}
+
+.timeline-wrapper .entries .entry .title:before {
+  content: '';
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border: 4px solid #ffffff;
+  background-color: #ec262e;
+  border-radius: 100%;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  right: -73px;
+  z-index: 1000;
+}
+.timeline-wrapper .entries .entry .title.big:before {
+  width: 24px;
+  height: 24px;
+  -webkit-transform: translate(8px, -50%);
+          transform: translate(8px, -50%);
+}
+.timeline-wrapper .entries .entry .body {
+  color: #333;
+}
+.timeline-wrapper .entries .entry .body p {
+  line-height: 1.4em;
+  font-weight:600 !important;
+}
+.timeline-wrapper .entries .entry:nth-child(2n) {
+  text-align: left;
+  float: right;
+}
+.timeline-wrapper .entries .entry:nth-child(2n) .title:before {
+  left: -63px;
+}
+.timeline-wrapper .entries .entry:nth-child(2n) .title.big:before {
+  -webkit-transform: translate(-8px, -50%);
+          transform: translate(-8px, -50%);
+}
+
+@media (max-width:500px){
+.timeline-wrapper .entries {width:90%; left:0; box-sizing:border-box;}
+.timeline-wrapper .entries .entry {float:none; width:100%; display:block; padding:10px; box-sizing:border-box; text-align:left;}
+.timeline-wrapper .entries .entry:nth-child(2n) {float:none; display:block; width:100%;}
+.timeline-wrapper .entries .entry:not(:first-child) {margin-top: 30px;}	
+.timeline-wrapper .entries .entry .title.big:before, .timeline-wrapper .entries .entry .title:before {display:none;}
+}
+
+/* JOURNEY 2 END*/
+
+.tickimage img {width:25px; height:auto; margin-top:5px;}
+.wpsm_panel-body, .wpsm_panel,.wpsm_panel-body > div {height:150px !important;}
+.wpsm_panel-body {padding:0 !important;}
+.wpsm_panel-body > div {font-size:18px !important; line-height:24px !important; text-align:center;}
+.wpsm_panel-body > div img {display:block !important; margin:auto !important; padding-bottom: 10px;}
+
+.desc_wrapper .desc {font-size:18px !important; color:#333; font-weight:600;}
+
+.block-chain-col-2 .desc_wrapper .desc {font-size:20px !important;}
+
+.icon_box {padding-top:20px; padding-bottom:20px;}
+.icon_box:hover .desc_wrapper .desc {color:#FFF;}
+.icon_box img {filter: brightness(100%); }
+.icon_box:hover img {filter: saturate(15);}
+
+.sub-menu li.current-menu-item {background-color:#dc0928;}
+.sub-menu li#menu-item-1685.current-menu-item {background-color:transparent !important;}
+
+.mang-serv-section-1 h2 {
+    font-family: 'Raleway' , sans-serif;
+    letter-spacing: 5px;
+    font-size: 45px !important;
+    margin: 10px auto;
+	font-weight:700 !important;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+	line-height:50px;
+}
+.vc_custom_1517234816490 .vc_btn3 {font-weight:700 !important; letter-spacing:2px; font-size:22px !important; line-height:30px; border-width:3px !important; background-color:rgba(255,255,255,0.4) !important;}
+.vc_custom_1517234816490 .vc_btn3:hover {background-color:#000 !important;}
+#row2 {padding-bottom:30px;}
+.services div.boxes {margin:10px !important; width:23% !important; background-size:cover; background-position:center center;
+	border-radius: 0px !important; cursor:default; border-radius:5px;}
+.services div.boxes:hover {border:0 !important;}
+#row1.services div.boxes h4, #row2.services div.boxes h4 {color:#FFF !important; font-weight:600; text-transform:uppercase; text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);}
+
+
+#row1.services div.boxes:nth-child(1) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/sw-testing.jpg");}
+#row1.services div.boxes:nth-child(2) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/mobility-services.jpg");}
+#row1.services div.boxes:nth-child(3) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/software-support.jpg");}
+#row1.services div.boxes:nth-child(4) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/database.jpg");}
+#row2.services div.boxes:nth-child(1) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/enterprise.jpg");}
+#row2.services div.boxes:nth-child(2) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/webdesign.jpg");}
+#row2.services div.boxes:nth-child(3) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/microsoft.jpg");}
+#row2.services div.boxes:nth-child(4) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/download.jpg");}
+
+@media (max-width: 1024px) {.services div.boxes {width:45% !important;}}
+@media (max-width: 768px) {.vc_custom_1517239259923 .vc_col-sm-4 {width:100%;}
+
+.services div.boxes h4 {font-size:18px !important;} .vc_custom_1517234816490 {margin:10px 0px !important;}
+.vc_custom_1517238835762 h2, .vc_custom_1517238847216 h2, .vc_custom_1517238866907 h2 {font-size:30px !important; line-height:32px !important;} .vc_custom_1517238835762 p, .vc_custom_1517238866907 p {font-size: 20px !important; line-height:24px;} .vc_custom_1517238866907 h4 {font-size:16px !important;}
+
+}
+@media (max-width: 500px) {.services div.boxes h4 {font-size:16px !important;} .vc_custom_1517234816490 {margin:10px 0px !important;}
+.vc_custom_1517238835762 h2, .vc_custom_1517238847216 h2, .vc_custom_1517238866907 h2 {font-size:20px !important; line-height:26px !important;} .vc_custom_1517238835762 p, .vc_custom_1517238866907 p {font-size:15px !important;} .vc_custom_1517238866907 h4 {font-size:14px !important;}
+.mang-serv-section-1 h2 {
+    letter-spacing: 3px;
+    font-size: 28px !important;
+	font-weight:700 !important;
+	line-height:34px !important;
+	text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+}
+.services div.boxes {width:100% !important;}
+}
+
+.vc_custom_1517487801401 p span.bold-head {font-weight:600; font-size:26px; line-height:30px;}
+.intro-tex p {font-size:18px !important; line-height:22px !important;}
+
+.retail-banking {background: url("http://www.dicetek.net/wp-content/uploads/2018/02/retail-banking.jpg");}
+.corporate-banking {background: url("http://www.dicetek.net/wp-content/uploads/2018/02/corporate-banking.jpg");}
+.risk {background: url("http://www.dicetek.net/wp-content/uploads/2018/02/risk.jpg");}
+.investment {background: url("http://www.dicetek.net/wp-content/uploads/2018/02/investment.jpg");}
+
+.retail-banking, .corporate-banking, .risk, .investment  {
+	width:100%;
+	height:250px;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;	
+}
+
+
+
+.service-title {width:100%;
+height:250px;
+background-color:rgba(0,0,0,0.4);
+}
+
+.service-title p{ display:table-cell; vertical-align:middle; text-align:center;
+font-size:30px;
+padding:0 15px;
+line-height:35px;
+font-weight:600;
+text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.8);
+color:#FFF;
+width:100%;
+height:250px;
+}
+ul.bfsi-uls li {font-size:16px; line-height:20px;}
+ul.bfsi-uls {height:330px;}
+
+.vc_custom_1517236731045 .wpb_wrapper > div {margin-bottom:10px;}
+
+
+.vc-hoverbox-block.vc-hoverbox-front {background-position: top center !important; background-size:100px 100px; background-repeat:no-repeat;}
+.vc-hoverbox-block.vc-hoverbox-back, .vc-hoverbox-block.vc-hoverbox-back h2 {color:#FFF !important;}
+.vc-hoverbox-block-inner.vc-hoverbox-front-inner h2 {font-weight:500; font-size:22px !important; line-height:26px;}
+.vc-hoverbox-block-inner.vc-hoverbox-back-inner p {font-size:18px !important; line-height:26px;}
+
+.vc_custom_1516203768065 .wrapper-container.services h3.page-custom-head {font-size:35px !important; line-height:45px !important;}
+.last-sec-uls {font-size:20px !important; line-height:24px !important;}
+.last-sec-uls li {padding-left:20px !important; padding-bottom:15px;}
+
+h2.vc_custom_1516457288435, h2.vc_custom_1517510668963,
+.vc_custom_1517511965811 div.vc_custom_heading, .vc_custom_1517511976941 h2.vc_custom_heading,
+h2.vc_custom_1517517934484,
+.vc_custom_1517512001249 h2,
+button.vc_general.vc_btn3.vc_btn3-size-lg.vc_btn3-shape-square.vc_btn3-style-custom
+{
+	font-family: 'Raleway' , sans-serif !important;
+	color: #0d64af !important;
+    font-size: 35px !important;
+    font-weight: 700 !important;
+	text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3) !important;
+	letter-spacing:5px !important;
+	line-height:40px !important;
+	text-transform:uppercase !important;
+}
+button.vc_general.vc_btn3.vc_btn3-size-lg.vc_btn3-shape-square.vc_btn3-style-custom {width:auto !important;}
+.vc_custom_1516697516290 p, p.vc_custom_1517517954670, .vc_custom_heading.vc_custom_1517518371009 { font-size:20px !important; line-height:26px !important; font-weight:400 !important; color:#000 !important;}
+.vc_custom_1516697516290 h3{
+	font-family: 'Raleway' , sans-serif !important;
+	color: #000 !important;
+    font-size: 24px !important;
+    font-weight: 500 !important;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+	line-height:26px !important;
+}
+
+.vc_custom_1517515299223 .list2 li, .vc_custom_1517515299223 .list2 p {font-size:18px; line-height:22px;}
+
+.vc_custom_1517224621973 {background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);}
+
+.vc_custom_1516270740871 span.vc_sep_line { border-color:transparent !important;}
+
+.solutions .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-size-xl.vc_icon_element-have-style-inner {
+	width:100px !important; height:100px !important; background-color: #0d64af !important;
+}
+.solutions .vc_icon_element.vc_icon_element-outer.iconborder {border:0px !important;}
+
+#solution-septext h4, #two h4, #three h4, #four h4, #five h4{
+	color: #fff !important;
+    font-family: 'Raleway' , sans-serif !important;
+    letter-spacing: 0.5px !important;
+    font-size: 21px !important;
+    margin: 10px auto !important;
+	font-weight: 300 !important;
+}
+
+.erp p,
+.erp li,
+.erp p .firstcharacter_solution,
+#three .vc_custom_1517515351742 p
+{color:#FFF !important;}
+.erp .infobox_wrapper li {color:#000 !important;}
+
+.twoboxes p,
+.twoboxes .list li,
+.twoboxes .list p
+{color: #FFF !important;}
+
+.bold-head h3.page-custom-head {
+    color: #0d64af !important;
+    font-family: 'Raleway' , sans-serif;
+    letter-spacing: 5px;
+    font-size: 45px !important;
+    margin: 10px auto;
+	font-weight:700 !important;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+}
+
+
+@media (min-width: 600px) and (max-width: 1024px) {.vc-hoverbox-block.vc-hoverbox-front {background-size:60px 60px !important;}}
+@media (max-width: 1024px) {
+	.solutions .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-size-xl.vc_icon_element-have-style-inner {
+	width:80px !important; height:80px !important; background-color: #0d64af !important;
+}
+.solutions .wpb_wrapper > div {margin-bottom:15px;}
+.vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-size-xl .vc_icon_element-icon {font-size:3em !important;}
+.vc_custom_1516697516290 h3{ font-size:22px !important; line-height:26px !important;}
+
+#Side_slide .menu_wrapper { padding: 10%;}
+
+#Side_slide {width:320px; right:-340px;}
+#Side_slide ul#menu-mainmenu li {padding:8px 0; border-bottom:1px dotted #CCC;}
+#Side_slide ul#menu-mainmenu li ul.sub-menu li, #Side_slide ul#menu-mainmenu li ul.sub-menu li a {border:none !important; margin-right:0px !important;}
+#Side_slide ul#menu-mainmenu li ul.sub-menu li a {margin-left:20px;}
+#Side_slide ul#menu-mainmenu li ul.sub-menu li a span {padding-left:0px !important;}
+#Side_slide ul#menu-mainmenu li:after {display:none !important;}
+ul#menu-mainmenu li a span{color:#333 !important;}
+#Side_slide ul.social li a i {color:#333 !important;}
+#Side_slide #menu ul li.submenu .menu-toggle {width:100%; display:block;}
+#Side_slide #menu ul li.submenu .menu-toggle:after {text-align:right; color:#000 !important; font-size:38px !important; font-weight:400; position:absolute; right:0;}
+#Side_slide ul#menu-mainmenu .current-menu-item a span, #Side_slide ul#menu-mainmenu .current-menu-parent > a > span {color:#ec2028 !important;}
+.page-id-5 #Side_slide ul#menu-mainmenu #menu-item-1685.current-menu-item a span, 
+.page-id-5 #Side_slide ul#menu-mainmenu #menu-item-1729.current-menu-parent > a > span {color:#000 !important;}
+
+#Side_slide .sub-menu li.current-menu-item {background-color: transparent !important;}
+.services .boxes {margin:10px !important; width:22.3% !important;}
+
+.gradient {margin-top:-45%;}
+.vc_custom_1517511965811 .gradient,
+#three .gradient,
+#four .gradient,
+#five .gradient 
+{margin-top:-30%;}
+
+.contact-sec-1 .vc_col-sm-1 { display:none;}
+.contact-sec-1 .vc_col-sm-5 { width:50%;}
+.vc_custom_1517236731045 .vc_col-sm-3 {width:50%;}
+
+#Header {min-height:380px !important;}
+
+}
+@media (max-width: 768px) {
+	.solutions .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-size-xl.vc_icon_element-have-style-inner {
+	width:54px !important; height:54px !important; background-color: #0d64af !important;
+}
+.vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-size-xl .vc_icon_element-icon {font-size:2em !important;}
+.vc_custom_1516697516290 h3{ font-size:16px !important; line-height:20px !important;}
+.vc_custom_1516372556545, .vc_custom_1516811325448 {margin-top:-80px !important;}
+
+#Header {min-height:300px !important;}
+.page-id-12, .page-id-1932 #Header, .page-id-1957 #Header, .page-id-1986 #Header, .page-id-1999 #Header, .page-id-2003 #Header, .page-id-2014 #Header, .page-id-2022 #Header, .page-id-2470 #Header, .page-id-5278 #Header {height:300px !important;}
+#Top_bar #logo img {padding-top:0px !important; margin-top:-10px !important;}
+.gradient {margin-top:-55%;}
+.services .boxes {margin:10px !important; width:45% !important;}
+
+.contact-sec-1 .vc_col-sm-1 { display:none;}
+.contact-sec-1 .vc_col-sm-5 { width:100%;}
+
+#portfolio_slider .owl-item .sa_hover_container { font-size:18px !important; width: 180px; height:180px;}
+}
+@media (max-width: 500px) {.vc_custom_1517236731045 .vc_col-sm-3 {width:100%;}
+ul.bfsi-uls {height: auto;}
+.vc_custom_1516203768065 .wrapper-container.services h3.page-custom-head {font-size:30px !important; line-height:36px;}
+.vc-hoverbox-block-inner.vc-hoverbox-front-inner h2 {font-size: 24px !important;}
+.solutions .vc_col-sm-2 {width:100% !important;}
+
+.solutions .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-size-xl.vc_icon_element-have-style-inner {
+	width:80px !important; height:80px !important; background-color: #0d64af !important;
+}
+.vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-size-xl .vc_icon_element-icon {font-size:4em !important;}
+.vc_custom_1516697516290 h3{ font-size:22px !important; line-height:24px !important;}
+
+#Header {min-height:250px !important;}
+body.home #Header {min-height:250px !important; height:auto !important;}
+#Top_bar #logo img {padding-top:0px !important; margin-top:-10px !important;}
+.gradient {margin-top:-110%;}
+
+
+h2.vc_custom_1517510668963 {margin:0 0 20px 0 !important; font-size:25px !important; text-align:center; line-height:30px !important; letter-spacing:2px !important;}
+ul.blockchain2-uls.rights li {width:250px;}
+.services .boxes {width:100% !important;}
+.about-sec-2-2 {padding:20px 5px;}
+.vc_custom_1516518784261,
+.vc_custom_1517222715329,
+.vc_custom_1517027281654,
+.vc_custom_1516372556545,
+.vc_custom_1517234066843,
+.vc_custom_1517210568864,
+.vc_custom_1516714994598,
+.vc_custom_1516811325448,
+.vc_custom_1516379659901
+{margin-right:10px !important; margin-left:10px !important;}
+
+.bold-head h3.page-custom-head,
+.with-blue-head h3.page-custom-head,
+.mang-serv-section-1 h3.page-custom-head,
+.page-id-12 h3.page-custom-head
+{font-size:30px !important; line-height:35px !important; text-shadow: 0px 0px 10px rgba(0, 0, 0, 0); letter-spacing:3px !important;}
+.mang-serv-section-1 h2
+{font-size:26px !important; line-height:28px !important; text-shadow: 0px 0px 10px rgba(0, 0, 0, 0); letter-spacing:3px !important;}
+
+}
+
+
+
+#Side_slide {background-color:#FFF; box-shadow: 0 3px 10px rgba(0,0,0,0.35);}
+#Top_bar a.responsive-menu-toggle i {font-size:24px;}
+.vc_custom_1517225772188 p {font-family: 'Raleway' , sans-serif !important;}
+
+ul.blockchain2-uls.rights {background-color:transparent !important;}
+ul.blockchain2-uls.rights li { background-color:#FFF; cursor:default; border-radius:5px; color:#333; font-weight:500 !important; padding:0 !important; height:100px !important; line-height:100px;}
+ul.blockchain2-uls.rights li img {max-height: 80px !important; padding-top:10px;}
+
+ul.blockchain2-uls.rights li:nth-child(6) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/box-bg.png"); background-position: center center; background-size:300%; line-height:100px; height:100px !important;}
+ul.blockchain2-uls.rights li:nth-child(7) {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/box-bg.png"); background-position: center top; background-size:200%; line-height:100px; height:100px !important;}
+
+.industry-portfolio-right {margin-top:-30px;}
+@media (min-width: 1400px) and (max-width: 1800px) {.vc_custom_1517053442129 {padding-top:15px;}}
+@media (min-width: 2500px){.vc_custom_1517053442129 {margin-top:-5px;}}
+
+.get_in_touch, .get_in_touch a, .get_in_touch h3, .get_in_touch ul, .infobox, .infobox a, .infobox h3, .infobox ul {color:#0d64af !important; text-decoration:none;}
+#Top_bar .menu li ul li {width: 280px !important;}
+
+.vc_custom_1517643407095 {background: linear-gradient(to bottom, #0d64af, #ffffff);}
+.bfsi-last-col p {font-weight:600; font-size:20px !important; line-height:26px !important; color:#000 !important;}
+.noborder-flip, .noborder-flip tr td {border:0px; color:#FFF !important; padding:0px; vertical-align:top;}
+.noborder-flip ul {list-style: none; margin-left:0px;}
+/*.noborder-flip ul li::before {
+	content: " "; display: block !important; position: static;
+	margin-left:-20px;
+	top:15px;
+	width:12px !important;
+	height:12px !important;
+	border-radius:50%;
+	background-color:#e8242d !important;
+	}*/
+	
+.noborder-flip ul li::before{
+		    content: "\f111";
+    font-family: FontAwesome;
+    color: red; /* or whatever color you prefer */
+    margin-right: 15px;
+	font-size:12px;
+	}
+	
+.noborder-flip tr:first-child td {background:none !important;}
+
+.noborder-flip tr td ul li {color:#FFF !important; margin-bottom:5px; line-height:18px; text-align:left;}
+@media (max-width: 1024px){
+	.noborder-flip tr td {width:100%; display:block; /*vertical-align:top;*/}	
+}
+
+@media (min-width: 1025px){
+	.noborder-flip tr td ul li {font-size:18px; line-height:24px;}
+}
+.page-id-5 div#Top_bar {
+	background-color: transparent !important;
+	box-shadow:none
+
+/*	background-color: rgba(9,68,126,0.8) !important;*/}
+
+.page-id-5 #Top_bar a.responsive-menu-toggle i {color: #FFF;}
+#Top_bar a.responsive-menu-toggle i {color: #09447e;}
+.page-id-5 div#Top_bar.is-sticky {background-color: rgba(256,256,256,0.9) !important;}
+.page-id-5 ul#menu-mainmenu li a span {color:#FFF !important;}
+@media (max-width: 1024px){.page-id-5 ul#menu-mainmenu li a span {color:#000 !important;}}
+.page-id-5 div#Top_bar.is-sticky ul#menu-mainmenu li a span {color:#000 !important;}
+.page-id-5 div#Top_bar.is-sticky ul#menu-mainmenu li ul li a span {color:#FFF !important;}
+/*body.home #Top_bar .logo-main,
+body.home #Top_bar .logo-mobile { content:url("http://www.dicetek.net/wp-content/uploads/2018/01/dicetek_logo_white.png");}
+*/
+body.home #Top_bar .logo-main,
+body.home #Top_bar .logo-mobile{
+  -moz-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+  background: url("http://www.dicetek.net/wp-content/uploads/2018/01/dicetek_logo_white.png") no-repeat !important;
+  background-size: 130px 40px !important;
+  width: 130px !important; /* Width of new image */
+  padding-left: 180px !important; /* Equal to width of new image */
+  height:40px !important;
+}
+img {-ms-interpolation-mode: bicubic;}
+
+@media (min-width: 1439px){ .vc_custom_1516697516290 .gradient, .vc_custom_1517511976941 .gradient {margin-top: -22%;}
+.vc_custom_1517511965811 .gradient, #three .gradient, #four .gradient, #five .gradient {margin-top:-20%;}}
+@media (min-width: 1700px){ .vc_custom_1516697516290 .gradient, .vc_custom_1517511976941 .gradient {margin-top: -18%;}
+.vc_custom_1517511965811 .gradient, #three .gradient, #four .gradient, #five .gradient {margin-top:-15%;}}
+
+.crm-list {
+	font-size: 18px;
+	color: #333 !important;
+	line-height: 22px;
+	font-weight:400;
+	list-style-type:none;
+	list-style:none !important;
+}
+.crm-list li span {padding-right:8px;}
+.crm-list td {text-align:left;}
+
+.contact_details {display:none;}
+
+.contact-details h3 {color: #FFF !important;
+    font-family: 'Raleway' , sans-serif;
+    letter-spacing: 5px;
+    font-size: 35px !important;
+    margin: 10px auto;
+	font-weight:700 !important;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+	line-height:40px;}
+	
+.contact-details p {font-size:18px; line-height:22px;}
+.contact-details img {width:50px; height:auto;}
+
+/*.page-id-8 #Header {height:400px !important; min-height:400px !important;}
+.vc_custom_1516518784261 {margin-top:0px !important;}
+
+.page-id-8 #Header_wrapper {background-size:100% !important; background-position: center center !important; box-shadow: 0 4px 15px rgba(0,0,0,0.65);}
+@media (min-width: 1439px){.page-id-8 #Header {height:450px !important; min-height:450px !important;}}
+*/
+.vc_custom_1517733178279 {margin-top: -20% !important;
+    margin-right: 10% !important;
+    margin-left: 10% !important;
+}
+@media (max-width:500px) {.vc_custom_1517733178279 {margin-right:5% !important; margin-left:5% !important;}
+.contact-social ul.social li, .contact-sec-1 a {font-size:15px !important;}
+#Action_bar .social {padding-top:10px !important;}
+}
+.greenbg, .msb2, .msb3, .msb4, .msb5, .msb6, .msb7, .msb8, .msb9, .msb10
+ {
+	background-image: url("http://www.dicetek.net/wp-content/uploads/2018/02/reflect.png");
+	background-position:center center;
+	background-size:cover;
+}
+.services-inner-bottom .box-1 {margin-top:80px;}
+.vc_custom_1517643407095 .wrapper-container.services .box-1 h3.page-custom-head {text-shadow: 3px 0px 5px rgba(255, 255, 255, 0.9); letter-spacing:3px !important;}
+@media (max-width: 768px) {.wrapper-container.services .box-1 h3.page-custom-head {font-size:27px !important; line-height:30px !important; letter-spacing:2px !important;}}
+.box-1 .bottom-line2 {display:none;}
+
+
+.logotext h4 {font-family: 'Raleway' , sans-serif; letter-spacing: 0.5px; font-size: 21px;}
+
+.vc_custom_1517238835762{background-image: url("http://www.dicetek.net/wp-content/uploads/2018/02/project-management.jpg");
+	background-position:center center;
+	background-size:cover;}
+.vc_custom_1517238847216{background-image: url("http://www.dicetek.net/wp-content/uploads/2018/02/infra-consulting.jpg");
+	background-position:center center;
+	background-size:cover;}
+.vc_custom_1517238866907{background-image: url("http://www.dicetek.net/wp-content/uploads/2018/02/audit.jpg");
+	background-position:center center;
+	background-size:cover;}
+
+.vc_custom_1517733178279  .vc_single_image-wrapper.vc_box_border_grey {margin-bottom:5px !important;}
+.vc_custom_1517733796977, .vc_custom_1517734061835 {margin-bottom: 15px !important;}
+.vc_custom_1517238847216 .wpb_single_image,
+.vc_custom_1517238847216 .vc_single_image-wrapper.vc_box_border_grey {margin-bottom:0px !important;}
+.minheight .vc_column-inner {min-height:520px !important;}
+
+.bi-technologies .wpb_wrapper > div {margin-bottom:0px;}
+
+.vc_custom_1517932434773 .vc_col-sm-12 > .vc_column-inner,
+.infra-main .vc_col-sm-12 > .vc_column-inner {padding-top:0 !important;}
+
+@media (min-width: 769px) and (max-width: 1024px) {.minheight .vc_column-inner {min-height:640px !important;}}
+
+.vc_custom_1516626760458 {background-position: center top !important;}
+.crm-icon {max-width: 160px !important; max-height:139px !important; margin:auto;}
+.robotic-icon {max-width: 160px !important; max-height:160px !important; margin:auto;}
+.solution-text-big p {font-size:18px !important; line-height:24px !important; margin:15px 40px; color:#333 !important;}
+.solution-text-med p {font-size:18px !important; line-height:24px !important; margin:15px 40px; color:#333 !important;}
+.bi-solution {margin-bottom:10px !important;}
+.bi-solution div {margin-bottom:0px !important;}
+.bi-industry-heading {color:#0d64af; font-size:18px; line-height:24px;}
+.bpm-heading {color:#333; font-size:20px; line-height:26px; font-weight:600;}
+.erp-image {max-width:1200px; margin:auto;}
+
+@media (max-width:768px) {
+.bi-solutions-image .vc_col-sm-3 {width:50%;}
+.bi-technologies .vc_col-sm-2 {width:33%;}
+.infra-main .vc_col-sm-6 {width:100%;}
+}
+
+.location-map-bg {background-size:contain !important; background-repeat:no-repeat !important; background-position:center !important;}
+
+@media (max-width:500px) {
+	.page-id-1932 .iconboxes {margin-bottom:30px;}
+	.crm-icon {max-width: 150px !important; max-height:131px !important;}
+	h3.page-custom-head {font-size:32px; line-height:36px;}
+	.solution-text-big p, .solution-text-med p {margin:15px 0;}
+	.vc_custom_1517931720124 {margin: 0 5% !important;}
+	.bi-solutions-image .vc_col-sm-3, .bi-technologies .vc_col-sm-2 {width:100%;}
+	.infra-main {margin-left:10px; margin-right:10px;}
+	.vc_custom_1517975677881 {margin:0 !important;}
+	.vc_custom_1516697516290 {padding-left:0 !important; padding-right:0 !important;}
+	.cpm-list, .erp-list, .infra-list {margin:0 !important;}
+.location-map-bg {background-size:cover !important;}
+}
+
+.cpm-list, .cpm-list li { padding: 0; margin: 0; list-style: none; font-size: 20px; line-height: 25px; font-weight:600; color:#333;}
+.erp-list, .erp-list li { padding: 0; margin: 0; list-style: none; font-size: 18px; line-height: 25px; font-weight:400; color:#333;}
+.infra-list, .infra-list li { padding: 0; margin: 0; list-style: none; font-size: 18px; line-height: 25px; font-weight:400; color:#333;}
+.cpm-list, .erp-list, .infra-list { margin: 2em 0; padding-bottom:50px;}
+.cpm-list li, .erp-list li, .infra-list li { margin: 1em; margin-left: 3em;}
+.cpm-list li:before, .erp-list li:before, .infra-list li:before { content: '\f111'; font-family: 'FontAwesome'; font-size:12px; float: left; margin-left: -25px; color: #e9242d;}
+
+@media (max-width:1024px) {.cpm-list li, .erp-list li, .infra-list li {font-size:16px; line-height:20px; margin-left:3em;}}
+
+.infra-main .wpb_wrapper > div {margin-bottom:5px !important;}
+.infra-heading {font-weight:700; margin-top:20px; text-transform:uppercase; color:#0d64af; letter-spacing:2px; font-size:22px; line-height:26px; margin-bottom:30px;}
+.infra-main .solution-text-med {padding-bottom:15px;}
+.vc_custom_1517210568864 .wpb_wrapper > div, .solution-bottom .wpb_wrapper > div {margin-bottom:5px !important;}
+.solution-bottom .infobox {padding-top:0 !important;}
+.solution-bottom {background-color:#f1f8fe !important;}
+.erp-bg .solution-text-med p, .erp-bg .erp-list li {font-weight:600 !important;}
+.vc_column-inner.vc_custom_1516697516290 {padding-top:5px !important;}
+.form-area {max-width:600px !important; margin:auto;}
+
+.force-overflow .blue-link {cursor:default !important;}
+
+div#wpcf7-f118-p18-o1 input[type="text"], input[type="email"], span.wpcf7-form-control-wrap.your-message textarea {color:#333 !important;}
+.blue-sec-5-left a.blue-link {cursor:default !important;}
+
+.mfn-main-slider {box-shadow:0 20px 25px -15px rgba(0, 0, 0, 0.6)}
+nav#menu ul li#menu-item-306 a, .page-id-5 ul#menu-mainmenu li#menu-item-306 a span,
+.sticky-header .is-sticky ul#menu-mainmenu li#menu-item-306 a span {font-weight:800 !important;}
+
+#career-container {margin-left:10%; margin-right:10%; margin-top:-20% !important;}
+.sjb-page {padding:20px 40px;}
+.sjb #Header {height:540px;}
+.sjb #Header_wrapper, .jobpost-template-default #Header_wrapper {background-position: center center !important; background-repeat:no-repeat; background-size:cover;}
+.jobpost-template-default #Header_wrapper {background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/silhouette-3d-graphics-business-people-network-communication_nkncj_ojx__F0000.png");}
+
+.job-apply-form {margin-left:auto; margin-right:auto; margin-top:50px; margin-bottom:50px; max-width:80%; background-color:#FFF; border:5px solid rgba(0,0,0,0.05); border-radius: 10px; padding:20px;  position:relative;}
+.jobpost-form .row > .col-md-12 { float:none;}
+
+#sjb-application-form {position:relative; display:block; float:none !important;}
+.sjb-archive-page .main-title, #sjb-application-form .main-title {text-align:center; font-size:35px; line-height:40px; text-transform:uppercase; font-weight:700 !important; letter-spacing:3px; display:block; color:#0d64af !important; font-family: 'Raleway' , sans-serif;}
+
+
+.sjb-page {color:#333;}
+#career-container {background-color: #FFF; background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/job-list-bg.png") !important; background-size:contain;}
+.career-page {background-repeat: repeat-y !important;}
+.sjb-page, .sjb-page .list-data {background-color:transparent !important;}
+.sjb-page .sjb-detail .list-data .job-detail {margin-top:50px !important;}
+#career-container .vc_empty_space {height:40px !important;}
+.sjb-page .list-data .job-description p {color: #000; font-size:16px; line-height:22px;}
+.sjb-page .list-data .job-info h4 a {color: #0d64af; font-size:22px; line-height:26px; font-weight:700;}
+.sjb-page .list-data .job-type, .sjb-page .list-data .job-location, .sjb-page .list-data .job-date {font-size:14px; color:#666;}
+
+.sjb-page .sjb-listing .btn {margin-top:20px; padding-left:30px; padding-right:30px; font-weight:500;}
+.post-type-archive-jobpost .list-data, .page-id-16 .list-data{ box-shadow:0 20px 25px -15px rgba(0, 0, 0, 0.3); background-color: rgba(242,248,255,1) !important;
+background-image:url("http://www.dicetek.net/wp-content/uploads/2018/02/career-post-bg.png");
+background-repeat:no-repeat;
+background-position: center left;
+}
+
+.sjb-page ul.pagination li {background-color:transparent !important; margin-left:10px;}
+.sjb-page ul.pagination li a, .sjb-page ul.pagination li span {border-radius:5px !important; font-weight:600;}
+
+
+
+@media (max-width:768px) { 
+.sjb #Header {height:300px;}
+#career-container {margin-top:-80px !important;}
+.sjb .vc_custom_1516811325448 {margin-top:0px !important;}
+.job-apply-form {max-width:100%;}
+
+
+}
+
+@media (max-width:500px) { 
+.sjb #Header {height:250px;}
+.sjb #Header {background-position: center top !important;}
+#career-container {margin-left:10px; margin-right:10px; margin-top: -50px !important;}
+.sjb-page {padding:20px 20px !important;}
+.single-jobpost .sjb-page {padding:20px 20px !important;}
+#career-container {background-size:200%; background-position:center;}
+.career-page {margin-top:-80px !important; margin-left:10px !important; margin-right: 10px !important;}
+
+#Footer .footer_copy .copyright {max-width:300px; margin:auto !important; padding-bottom:8px;}
+.footer_copy .contact_btn {width:130px; margin:auto !important;}
+}
+
+#slider_792 .owl-dots .owl-dot span {background-color: rgba(255,255,255,0.2) !important;}
+#slider_792 .owl-dots .owl-dot.active span {background-color: rgba(255,255,255,1) !important;}
+
+
+ul.core-values-points { list-style:none; margin-left:100px; margin-top:50px;}
+ul.core-values-points li
+{
+background: url('https://www.dicetek.net/wp-content/uploads/image_carousel_thumbs/tick-icon-nkkc2z6my8k57p2i9lkbp90j5mcopcoemj31937eis.png') no-repeat;
+background-size: 25px 25px;
+padding-left: 44px;
+padding-top: 3px;
+padding-bottom: 35px;
+background-position: left 8px;
+}
+
+ul.last-sec-uls { list-style:none; margin-left:30px; margin-top:50px;}
+ul.last-sec-uls li {
+	background: url('https://www.dicetek.net/wp-content/uploads/2018/02/white-right-arrow-icon.png') no-repeat;
+background-size: 25px 25px;
+padding-left: 44px !important;
+padding-top: 3px;
+padding-bottom: 35px;
+background-position: left 4px;
+}
+
+@media only screen and (max-width: 959px) and (min-width: 768px){
+.section_wrapper, .container, .with_aside .content_wrapper {max-width:100% !important;}	
+}
+
+.vc_custom_1517423772833 {padding:0 15px !important;}
+.industry-portfolio-left {padding-top:50px !important;}
+.industry-portfolio-left .text.heading-text {color: #FFF !important;}
+.industry-portfolio-left .text.heading-text:before,
+.industry-portfolio-left .text.heading-text:after {content: url("http://www.dicetek.net/wp-content/uploads/2018/01/white-sep.jpg") !important;}
+.vc_custom_1518540131533 {padding-top: 0px !important; margin-bottom:5px !important;}
+
+
+.about-ceo-msg > .vc_column_container.vc_col-sm-12{
+	background: url('https://www.dicetek.net/wp-content/uploads/2018/02/ceo-large-image.png') no-repeat;
+	background-position:right 80px bottom;
+	background-size: auto 70%;
+}
+.about-ceo-msg {padding-left:0 !important; padding-right:0 !important;}
+
+@media only screen and (min-width: 1600px){ .about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-position:right 12% bottom;}}
+@media only screen and (max-width: 1400px){ .about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-position:right bottom; background-size: auto 70%;}}
+@media only screen and (max-width: 1300px){
+	.about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-position:right bottom; background-size: auto 70%;}
+}
+
+@media only screen and (max-width: 1200px){
+	.about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-position:right -80px bottom; background-size: auto 75%;}
+}
+
+@media only screen and (max-width: 1100px){
+	.ceo-msg {width:50% !important;}	
+.about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-position:right -80px bottom; background-size: auto 75%;}
+}
+
+@media only screen and (max-width: 1000px){
+.about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-position:right -150px bottom; background-size: auto 70%;}
+}
+
+
+@media only screen and (max-width: 800px){
+	.ceo-msg {width:50% !important;}
+	.about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-size: auto 65%; background-position:right -190px bottom;}
+}
+
+@media only screen and (max-width: 768px){
+	.ceo-msg {width:50% !important;}
+	.about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-size: auto 60%; background-position:right -175px bottom;}
+}
+
+@media only screen and (max-width: 500px){
+	.ceo-msg {width:100% !important; padding-bottom:450px !important;}
+	.about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-size: auto 35%; background-position:right -70px bottom;}		
+}
+
+@media only screen and (max-width: 340px){
+	.ceo-msg {width:100% !important; padding-bottom:500px !important;}
+	.about-ceo-msg > .vc_column_container.vc_col-sm-12 {background-size: auto 30%; background-position:right -100px bottom;}		
+}
+
+
+
+.industries-portfolio-text {padding-top:0px !important;}
+
+.bfsi-consulting { color:#006699; font-size:22px; line-height:26px; font-weight:500;}
+.bfsi-consulting-services .wpb_wrapper > div {margin-bottom:0px !important;}
+
+.bfsi-consulting-box > .vc_column-inner > .wpb_wrapper {
+	background-color: #f9f9f9;
+	border-radius:10px;
+	border:1px solid #d8cbcb;
+	padding-left:15px;
+	padding-right:15px;
+	box-shadow:10px 20px 25px -15px rgba(0, 0, 0, 0.3);
+	margin-top:20px;
+	margin-bottom:20px;
+	min-height:420px;
+}
+
+.page-custom-head.bfsi2 {letter-spacing:3px !important;}
+.bfsi-consulting-box .infra-list {padding-bottom:20px !important;}
+.bfsi-consulting-box .infra-list li {margin-top:10px !important; margin-bottom:10px !important;}
+
+.page-id-286 .intro-tex p, .page-id-290 .intro-tex p, .page-id-295 .intro-tex p,
+.page-id-293 .intro-tex p, .page-id-288 .intro-tex p, .page-id-2890 .intro-tex p
+ { max-width:1200px; margin-left:auto; margin-right:auto; color:#000; font-weight:400; text-align:left !important;}
+
+.services-sections {min-height:500px; background-position:center; background-size:cover; background-repeat:no-repeat;
+-webkit-box-shadow: 0px -8px 15px 5px rgba(0,0,0,0.10);
+-moz-box-shadow: 0px -8px 15px 5px rgba(0,0,0,0.10);
+box-shadow: 0px -8px 15px 5px rgba(0,0,0,0.10);
+font-size:18px;
+line-height:24px;
+font-weight:500;
+color:#000;
+}
+
+.services-sections.one {box-shadow:none; -webkit-box-shadow:none; -moz-box-shadow:none;}
+
+.services-sections .white-fade-bg.right {
+	background: url('https://www.dicetek.net/wp-content/uploads/2018/02/white-fade-right.png') no-repeat;
+	background-position: right top;
+	min-height:500px;
+}
+
+.services-sections .white-fade-bg.left {
+	background: url('https://www.dicetek.net/wp-content/uploads/2018/02/white-fade-left.png') no-repeat;
+	background-position: left top;
+	min-height:500px;
+}
+
+.tick-mark-list {list-style:none !important;}
+.tick-mark-list li {color: #000; font-size:16px; font-weight:500; padding-top:5px; padding-bottom:5px; margin-bottom:0px !important;}
+.tick-mark-list li:before { content: '\f058'; font-family: 'FontAwesome'; font-size:18px; float: left; margin-left: -25px; color: #e9242d;}
+.advantages-head {font-size:22px; line-height:28px; text-align:center; font-weight:600; color:#000;}
+.advantages-text {font-size:18px; line-height:24px; text-align:center; font-weight:400; color:#000;}
+
+.services-sections .vc_col-sm-7 {width:45.3333%;}
+.services-sections .vc_col-sm-4 {width:46.3333%;}
+.services-sections .page-custom-head {font-size:40px !important; line-height:45px !important;}
+
+
+@media only screen and (max-width: 1400px){
+	.services-sections .white-fade-bg.right{background-position: right -150px top;}
+	.services-sections .white-fade-bg.left{background-position: left -150px top;}
+}
+
+@media only screen and (max-width: 1200px){
+	.services-sections .vc_col-sm-7 {width:30.3333%;}
+	.services-sections .vc_col-sm-4 {width:61.3333%;}
+	.services-sections .white-fade-bg.right{background-position: right -250px top;}
+	.services-sections .white-fade-bg.left{background-position: left -250px top;}
+}
+
+@media only screen and (max-width: 1024px){
+	.bfsi-consulting-box.vc_col-sm-3 {width:50%; min-height: auto;}
+	.bfsi-consulting-box.bfsi-3 > .vc_column-inner > .wpb_wrapper,
+	.bfsi-consulting-box.bfsi-4 > .vc_column-inner > .wpb_wrapper,
+	.bfsi-consulting-box.bfsi-5 > .vc_column-inner > .wpb_wrapper,
+	.bfsi-consulting-box.bfsi-6 > .vc_column-inner > .wpb_wrapper {min-height:300px;}
+	.services-sections .white-fade-bg.right{background-position: right -350px top;}
+	.services-sections .white-fade-bg.left{background-position: left -350px top;}
+}
+@media only screen and (max-width: 768px){ 
+	.services-sections .vc_col-sm-7, .services-sections .vc_col-sm-1 {display:none;}
+	.services-sections .vc_col-sm-4 {width:100%; padding-left:20px !important; padding-right:20px !important;}
+}
+@media only screen and (max-width: 500px){ 
+	.bfsi-consulting-box.vc_col-sm-3 {width:100%; min-height: auto;}
+	.bfsi-consulting-box.bfsi-8 > .vc_column-inner > .wpb_wrapper {min-height: 260px;}
+	.services-sections .white-fade-bg.right, .services-sections .white-fade-bg.left {min-height:0;}
+}
+
+.sap-large-heading p {text-align: center !important; font-size: 36px !important; line-height:42px !important; font-weight: 700 !important; color:#333333;}
+.sap-large-heading {padding-bottom:40px !important;}
+.sap-top-icons .wpb_wrapper > div {margin-bottom:10px !important;}
+.sap-icon-text p {text-align: center; font-size: 22px !important; line-height: 26px !important; color: #000 !important; font-weight:600 !important;}
+.page-id-2470 #Content .sap-top-icons img {max-height: 150px !important; max-width:150px !important;}
+.sap-top-icons {padding-bottom:50px;}
+
+.sap-skills-title p { font-size:22px !important; line-height:26px !important; color:#000; font-weight:600 !important;}
+.sap-skills-left, .sap-skills-right {list-style:none !important; margin-left:100px; margin-top:50px;}
+.sap-skills-left li, .sap-skills-right li {
+color: #000;
+font-size:20px;
+line-height:40px;
+font-weight:500;
+padding-top:5px;
+padding-bottom:5px;
+background-size: 35px 35px !important;
+padding-left: 60px;
+background-position: left 8px;}
+
+.sap-skills-left li:nth-child(1) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon1.png') no-repeat;}
+.sap-skills-left li:nth-child(2) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon2.png') no-repeat;}
+.sap-skills-left li:nth-child(3) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon3.png') no-repeat;}
+.sap-skills-left li:nth-child(4) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon4.png') no-repeat;}
+.sap-skills-left li:nth-child(5) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon5.png') no-repeat;}
+.sap-skills-left li:nth-child(6) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon6.png') no-repeat;}
+
+.sap-skills-right li:nth-child(1) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon7.png') no-repeat;}
+.sap-skills-right li:nth-child(2) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon8.png') no-repeat;}
+.sap-skills-right li:nth-child(3) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon9.png') no-repeat;}
+.sap-skills-right li:nth-child(4) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon10.png') no-repeat;}
+.sap-skills-right li:nth-child(5) {background: url('https://www.dicetek.net/wp-content/uploads/2018/02/sap-skills-icon11.png') no-repeat;}
+
+.sap-skills-expertise {padding-top:20px;}
+
+.sap-highlight {margin-bottom:0px !important;}
+.sap-highlight img { border-radius:10px; box-shadow: 0px 20px 25px -15px rgba(0, 0, 0, 0.3);}
+.sap-highlight-heading p {font-size:20px !important; color:#000; font-weight:500 !important;}
+
+@media only screen and (max-width: 1200px){
+.sap-top-icons .vc_col-sm-2 {width:33.3%;}
+}
+@media only screen and (max-width: 500px){
+.sap-top-icons .vc_col-sm-2 {width:100%;}
+	.sap-skills-title p{ text-align:center !important;}
+	.sap-skills-left, .sap-skills-right {margin-left:0px !important;}
+	.sap-skills-left li, .sap-skills-right li {background-size: 25px 25px !important; padding-left:50px; font-size:18px; line-height:30px;}
+	.vc_custom_1518898587507 {margin-right:10px !important; margin-left:10px !important;}
+	.services-sections .page-custom-head {font-size:28px !important; line-height:35px !important; text-shadow: 0px 0px 10px rgba(0, 0, 0, 0); letter-spacing:1px !important;}
+	
+}
+
+.page-id-14 #Content img {max-width:250px !important;}
+@media only screen and (max-width: 1200px){.page-id-14 #Content img {max-width:200px !important;}}
+@media only screen and (max-width: 1024px){.page-id-14 #Content img {max-width:180px !important;}}
+@media only screen and (max-width: 768px){.page-id-14 #Content img {max-width:140px !important;}}
+@media only screen and (max-width: 500px){.page-id-14 #Content img {max-width:250px !important;}}
+
+.footer_copy .column {margin:0 15px 0 15px !important;}
+.footer_copy .column.one {padding-top:15px !important;}
+.footer_copy .copyright {padding-top:8px;}
+
+.table-solutions-portfolio {width:95% !important;}
+.table-solutions-portfolio, .table-solutions-portfolio td {border: 0px !important; vertical-align: top !important;}
+.table-solutions-portfolio td {text-align:left !important;}
+.table-solutions-portfolio tr:first-child td {background:none !important;}
+
+.table-solutions-portfolio h4 {
+	font-family: 'Raleway' , sans-serif;
+	font-size:18px;
+    font-weight: 700;
+	padding-bottom:5px !important;
+	margin-bottom:0 !important;
+	color: #fff !important;
+}
+
+.table-solutions-portfolio, .table-solutions-portfolio p{
+	color: rgba(255,255,255,0.85);
+    font-family: "Raleway";
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 18px;
+	font-weight:400;
+}
+
+.table-solutions-portfolio td {padding-bottom: 10px !important; padding-top:10px !important;}
+.table-solutions-portfolio tr td a.p_readmore { font-size:15px !important; display:block; padding-bottom:35px !important; margin-bottom:15px !important; border-bottom: 2px solid rgba(255,255,255,0.6); border-radius:10px;
+    line-height: 19px;
+    font-weight: 600;
+    color: #f3cb08 !important;
+}
+
+@media only screen and (max-width: 540px) and (min-width: 320px)  {
+.force-overflow table {margin-left:0px !important; width:100% !important; margin-top:30px !important;}
+}
+
+.visible-mobile {display:none;}
+.hidden-mobile {display:block;}
+
+@media only screen and (max-width: 540px) {
+.visible-mobile {display:block;}
+.hidden-mobile {display:none;}
+}
+
+.bchain-services {padding-bottom:50px;}
+.bchain-services-boxes {max-width: 1440px; margin:auto;}
+.bchain-service-head {font-size:26px; font-weight:700; color:#333; padding-left:15px; padding-right:15px; padding-top:20px; text-align:center !important; display:block;}
+.bchain-services-boxes p {padding: 0 15px 15px 15px; font-size:16px; line-height:20px !important; font-weight:500; text-align:left;}
+.bchain-services-boxes p strong {background-color:#c2e0ff; font-weight:600; padding:2px 6px;}
+.bchain-service-image .wpb_wrapper > div, .bchain-services-boxes .vc_col-sm-3 > .vc_column-inner > .wpb_wrapper > div{margin-bottom:0px !important;}
+.bchain-services-boxes .vc_col-sm-3 > .vc_column-inner {padding-left: 30px; padding-right:30px;}
+.bchain-services-boxes .vc_col-sm-3 > .vc_column-inner > .wpb_wrapper {background-color:#FFF; box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.15); height:100%;}
+
+.bchain-headlines{ padding-top:40px; padding-bottom:40px;}
+.bchain-headlines > .vc_col-sm-12 {max-width: 1367px; margin:auto; float:none;}
+.bchain-headlines-heading { font-size:35px; line-height:38px; color:#ff9600; font-weight:600;}
+.bchain-headlines table td {border:0px; width:auto; background: transparent !important; vertical-align:top;}
+.bchain-headlines table td.bchain-headlines-image {width:140px;}
+.bchain-headlines table td.bchain-headlines-text {width:auto;}
+.bchain-headlines table td h3 { font-size:26px; line-height:30px; color:#00baf7; font-weight:700; text-align:left;}
+.bchain-headlines table td p {font-size:16px; line-height:20px; color:rgba(255,255,255,0.7); text-align:left;}
+
+
+@media only screen and (max-width: 1400px) {
+	.bchain-service-head {font-size:24px;}
+	.bchain-services-boxes p {font-size:14px; line-height:18px;}
+}
+
+
+@media only screen and (max-width: 1200px) {
+	.bchain-services-boxes {max-width:100%;}
+	.bchain-services-boxes .vc_col-sm-3 > .vc_column-inner {padding-left: 10px; padding-right:10px;}
+	.bchain-service-head {font-size:18px;}
+	.bchain-services-boxes p {font-size:14px; line-height:18px;}
+}
+
+@media only screen and (max-width: 768px) {
+	.bchain-services-boxes .vc_col-sm-3 {width:50%; margin-bottom:40px;}	
+	.bchain-services-boxes .vc_col-sm-3 > .vc_column-inner > .wpb_wrapper {max-width: 300px; margin: auto;}
+	.bchain-service-head {font-size:25px;}
+    .bchain-headlines .vc_col-sm-6 {width:100%;}
+    .page-id-5278 .vc_col-sm-6, .page-id-5278 .vc_col-sm-4, .page-id-5278 .vc_col-sm-8 {width: 100% !important; text-align: center;}
+    .page-id-5278 .infra-list {padding-bottom: 20px;}
+    
+}
+@media only screen and (max-width: 540px) {
+	.bchain-headlines table {margin-left:0;}
+	.bchain-services-boxes .vc_col-sm-3 {width:100%;}
+    .bchain-headlines table td.bchain-headlines-image {width:50px;}
+    .vc_custom_1590563765539, .vc_custom_1590563193138, .vc_custom_1590564460247, .vc_custom_1590566203218,
+    .vc_custom_1590567064749, .vc_custom_1590568100626, .vc_custom_1590568661796, .vc_custom_1590568711475 
+    {margin-right: 15px !important; margin-left: 15px !important;}
+    .jedoxModal {padding-top: 50px;}
+}
+
+.hard-sec .vc_col-sm-3 .vc_column-inner {padding-top:0px !important;}
+
+
+
+.pum-theme-7239 .pum-container, .pum-theme-lightbox .pum-container {
+    border: none !important;
+}
